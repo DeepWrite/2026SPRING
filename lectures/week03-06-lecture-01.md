@@ -9,7 +9,7 @@ permalink: /lectures/week03-06/lecture-01
 # O-R-E-O 오레오 강좌 실강 내용 정리
 
 * 아래 내용은 대개 기본 강의자료의 반복입니다. 
-* 논제 진술과 이유, 증거의 긴밀한 연결이 잘 드러난, 다음 강좌인 [리차드 도킨스 사례]({{site.baseurl}}/lectures/week03-06/lecture-02.md/)를 잘 음미하기 바랍니다.
+* 논제 진술과 이유, 증거의 긴밀한 연결이 잘 드러난, 다음 강좌인 [리차드 도킨스 사례]({{site.baseurl}}/lectures/week03-06/lecture-02.md)를 잘 음미하기 바랍니다.
 
 ## 우리 강의는 어디까지 왔나?
 
