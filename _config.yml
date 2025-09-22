@@ -6,7 +6,7 @@ baseurl: "/2025FALL"
 url: https://DeepWrite.github.io/
 
 aux_links:
-  SNU ETL: https://etl.snu.ac.kr
+  반별 제출 과제 열람: https://deepwrite.github.io/2025FALL/works/
 
 mermaid:
   version: "10.9.1"
