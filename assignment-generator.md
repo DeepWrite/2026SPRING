@@ -98,17 +98,23 @@ permalink: /asmt-{assignment}/{class}-{number}
 
       const filename = `asmt-${sanitize(assignment)}-${sanitize(classNum)}-${sanitize(number)}-${sanitize(name)}.md`;
 
-      const blob = new Blob([md], { type: "text/markdown;charset=utf-8" });
-      const url = URL.createObjectURL(blob);
+      try {
+        const blob = new Blob([md], { type: "text/markdown;charset=utf-8" });
+        const url = URL.createObjectURL(blob);
 
-      const a = document.createElement("a");
-      a.href = url;
-      a.download = filename;
-      document.body.appendChild(a);
-      a.click();
-      a.remove();
+        const a = document.createElement("a");
+        a.href = url;
+        a.download = filename;
+        document.body.appendChild(a);
+        a.click();
+        a.remove();
 
-      URL.revokeObjectURL(url);
+        URL.revokeObjectURL(url);
+        alert("파일이 다운로드되었습니다: " + filename);
+      } catch (error) {
+        console.error("다운로드 오류:", error);
+        alert("다운로드에 실패했습니다. 콘솔을 확인하세요.");
+      }
     });
   });
 </script>
