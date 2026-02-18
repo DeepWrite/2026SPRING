@@ -1,5 +1,5 @@
 ---
-title: 과제생성기
+title: 과제생성기2
 layout: home
 nav_order: 700
 permalink: /assignment-generator/
