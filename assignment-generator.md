@@ -1,21 +1,27 @@
 ---
-title: 과제생성기4
+title: 과제 템플릿 생성기5
 layout: home
 nav_order: 700
 permalink: /assignment-generator/
 ---
 
 <div class="assignment-gen">
-  <h2>과제 파일 생성기</h2>
+  <h2>과제 템플릿 파일 생성기</h2>
 
-  <input id="name" class="form-control" placeholder="이름" />
-  <input id="class" class="form-control" placeholder="수강반 (예: 015)" />
-  <input id="number" class="form-control" placeholder="연번 (예: 33)" />
-  <input id="assignment" class="form-control" placeholder="과제 번호 (예: 01)" />
-  <textarea id="md" class="form-control" placeholder="여기에 마크다운 본문을 작성하세요."></textarea>
+  <div class="tabs" role="tablist" aria-label="과제 선택">
+    <button id="tab-asmt-01" class="tab active" role="tab" aria-selected="true">과제-01</button>
+  </div>
 
-  <button id="btn" class="btn">.md 파일 다운로드</button>
-  <p class="text-small text-grey-dk-100">파일명: asmt-{과제번호}-{수강반}-{연번}-{이름}.md · 상단에 YAML이 자동 포함됩니다.</p>
+  <div class="panel" role="tabpanel" aria-labelledby="tab-asmt-01">
+    <input id="name" class="form-control" placeholder="이름 (예: 홍길동)" />
+    <input id="classNo" class="form-control" placeholder="수강반 (예: 015)" />
+    <input id="serialNo" class="form-control" placeholder="연번 (예: 33)" />
+
+    <button id="btn-asmt-01" class="btn">과제-01 템플릿 다운로드</button>
+    <p class="text-small text-grey-dk-100">
+      파일명: <code>asmt-01-수강반-연번-이름.md</code>
+    </p>
+  </div>
 </div>
 
 <script>
@@ -24,104 +30,117 @@ permalink: /assignment-generator/
       .toString()
       .trim()
       .replace(/[\\/:*?"<>|]/g, "")
-      .replace(/\s+/g, "_");
+      .replace(/\s+/g, "");
   }
 
-  function todayYYYYMMDD() {
-    const d = new Date();
-    const y = d.getFullYear();
-    const m = String(d.getMonth() + 1).padStart(2, "0");
-    const day = String(d.getDate()).padStart(2, "0");
-    return `${y}-${m}-${day}`;
+  function asmt01Template(name, classNo, serialNo) {
+    const navOrder = String(parseInt(serialNo, 10) || serialNo).trim();
+
+    return [
+      "---",
+      `title: ${classNo}-${serialNo} ${name} (과제-01)`,
+      "layout: home",
+      `nav_order: ${navOrder}`,
+      "parent: 과제-01 요약 연습",
+      `permalink: /asmt-01/${classNo}-${serialNo}`,
+      "---",
+      "",
+      `# 과제-01 요약 연습 ${classNo}-${serialNo} ${name} `,
+      "",
+      "## 대상 문헌  ",
+      "**제목**: 논증적 글쓰기의 역할과 한계: 비판적 사고와 설득의 상호작용  ",
+      "**저자**: 김철수   ",
+      "**출처**: 서울대학교 논문집, 2024, Vol. 12, No. 3, pp. 45-67  ",
+      "",
+      "---",
+      "",
+      "## 요약문  ",
+      "",
+      "### 1. 핵심 쟁점과 딜레마  ",
+      "이 논문은 논증적 글쓰기가 비판적 사고를 촉진하는 필수적인 도구로 여겨지지만, 설득을 목표로 하는 과정에서 오히려 독자의 방어적 태도를 강화할 수 있다는 점을 문제 삼는다. 기존 연구들은 논증적 글쓰기가 논리적 일관성을 높이고 객관적 판단을 촉진하는 역할을 한다고 평가해 왔지만, 저자는 이러한 접근이 오히려 역효과를 초래할 가능성이 있음을 지적한다. 특히, 강한 신념 체계를 가진 독자들은 논증적 글쓰기를 통해 자신의 입장을 재고하기보다는 더욱 강화하는 경향을 보인다는 점에서, 논증이 설득을 위한 효과적인 방법인지에 대한 근본적인 의문이 제기된다. 이러한 문제는 \"논증적 글쓰기는 실제로 독자를 설득하는가?\" 라는 철학적이고 실증적인 논쟁으로 이어진다. 한편으로는 논증이 논리적 정합성을 제공하여 독자가 합리적인 결정을 내리도록 돕는다고 주장하는 입장이 있으며, 다른 한편으로는 논증이 오히려 기존 신념을 강화하는 심리적 저항(reactance)을 유발하여 독자의 태도를 더욱 극단적으로 만들 수 있다는 실증적 연구들이 있다. 이러한 딜레마는 논증적 글쓰기가 독자의 신념을 변화시키는 데 있어 얼마나 효과적인지를 평가하는 데 어려움을 초래한다. 논증이 독자를 설득하려면 충분히 강력한 논리적 구조를 갖춰야 하지만, 동시에 너무 강한 논증은 오히려 독자가 자신을 방어하려는 인지적 저항을 불러일으켜 비판적 사고를 차단할 지도 모른다. 이처럼 논증적 글쓰기는 설득과 비판적 사고를 동시에 촉진하려는 과정에서, 논리적 설득과 심리적 저항이라는 상충하는 목표 사이에서 균형을 찾아야 하는 복잡한 문제에 직면하고 있으며, 해당 문헌은 다음의 두 방향에서 비판적 감화를 목적으로 한 글쓰기에서 논증의 엄밀함 이외의 심리적 고려를 포함해야 함을 논증하고 있다.   ",
+      "",
+      "---",
+      "",
+      "### 2. 주요 논증 및 근거  ",
+      "",
+      "#### 2.1 첫 번째 논증: 논증적 글쓰기의 설득력에 대한 기대와 현실  ",
+      "저자는 먼저 논증적 글쓰기가 객관적인 사실과 논리적 정합성을 강조하면서 독자의 비판적 사고를 촉진한다고 주장하는 기존 연구에 도전한다. 기존 이론에 따르면, 논리적으로 정교하게 구성된 논증은 독자가 합리적으로 사고할 수 있도록 돕고, 반론을 검토하는 과정을 통해 더 나은 판단을 내릴 수 있게 한다. 그러나 저자는 논증적 글쓰기가 실제로 설득력을 가지는지에 대한 실증적 연구가 부족할 뿐만 아니라, 오히려 논증이 독자의 태도를 변화시키는 것이 아니라 기존 태도를 더욱 강화하는 경향을 보여준다는 점을 A와 같은 최근의 실험 연구결과를 토대로 지적한다. 이를 통해 그는 이는 논증적 글쓰기가 단순히 더 나은 논리를 제공한다고 해서 독자의 입장을 변화시키는 것이 아니라, 독자가 기존 입장을 더욱 공고히 하게 만드는 도구로 작용할 가능성이 있음을 시사한다. 따라서 논증적 글쓰기는 설득을 위한 효과적인 수단이 아닐 수도 있으며, 오히려 독자의 인지적 저항을 고려한 다른 접근이 필요할 수 있다.  ",
+      "",
+      "#### 2.2 두 번째 논증: 논증적 글쓰기와 감성적 설득 전략의 충돌  ",
+      "논증적 글쓰기는 감성적 호소를 배제하고 논리적 근거를 중심으로 전개되어야 한다는 전통적 가설이 있다. 그러나 저자는 논증이 감성적 요소를 완전히 배제할 경우 설득력을 상실할 수 있다고 주장한다. 논증적 글쓰기가 설득력을 가지려면 독자가 논증을 수용할 심리적 준비가 되어 있어야 하지만, 논리적 근거만으로는 독자의 감정적 반응을 고려하지 못하기 때문에 오히려 논증이 설득력을 잃을 수 있다는 것이다. 예를 들어, 기후변화와 같은 사회적 이슈에 대한 논쟁에서 순수한 데이터와 논리만을 제시하는 방식은 대중을 설득하는 데 실패할 가능성이 높은 반면, 같은 주장을 하더라도 감성적 요소를 결합하여 독자의 공감을 유도하는 방식은 더 강한 설득력, 즉 감화력을 발휘할 수 있다는 것이다. 이와 같이 필자는 논증적 글쓰기가 과연 감화력 있는 담론 전략인지에 대한 의문을 제기하며, 논증의 논리적 정합성과 감성적 설득력이 반드시 대립하는 것이 아니라 상호 보완적으로 작용해야 한다는 새로운 논의를 촉진한다.  ",
+      "",
+      "---",
+      "",
+      "## 결론  ",
+      "이 논문은 논증적 글쓰기가 비판적 사고를 촉진하는 동시에 감화력을 가질 수 있는지에 대한 문제를 중심으로, 논증이 독자의 신념을 변화시키는 효과적인 도구인지에 대해 의문을 제기한다. 저자는 논증적 글쓰기가 독자의 비판적 사고를 자극하는 역할을 하더라도, 반드시 독자의 태도를 변화시키는 것은 아니며, 오히려 인지적 저항을 유발할 가능성이 있음을 강조한다. 이러한 논의는 논증적 글쓰기의 효과성을 평가하는 데 있어 단순히 논리적 정합성만을 고려할 것이 아니라, 독자의 심리적 요인을 함께 분석해야 한다는 점을 시사한다.",
+      ""
+    ].join("\n");
   }
 
-  // 기본 마크다운 템플릿
-  const defaultMd = `---
-title: {class}-{number} {name} (과제-{assignment})
-layout: home
-nav_order: {number}
-parent: 과제-{assignment} 요약 연습
-permalink: /asmt-{assignment}/{class}-{number}
----
+  function downloadText(filename, text) {
+    const blob = new Blob([text], { type: "text/markdown;charset=utf-8" });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement("a");
 
-# 과제-{assignment} 요약 연습 {class}-{number} {name} 
+    a.href = url;
+    a.download = filename;
+    document.body.appendChild(a);
+    a.click();
+    a.remove();
 
-## 대상 문헌  
-**제목**: 논증적 글쓰기의 역할과 한계: 비판적 사고와 설득의 상호작용  
-**저자**: 김철수   
-**출처**: 서울대학교 논문집, 2024, Vol. 12, No. 3, pp. 45-67  
-
----
-
-## 요약문  
-
-### 1. 핵심 쟁점과 딜레마  
-이 논문은 논증적 글쓰기가 비판적 사고를 촉진하는 필수적인 도구로 여겨지지만, 설득을 목표로 하는 과정에서 오히려 독자의 방어적 태도를 강화할 수 있다는 점을 문제 삼는다. 기존 연구들은 논증적 글쓰기가 논리적 일관성을 높이고 객관적 판단을 촉진하는 역할을 한다고 평가해 왔지만, 저자는 이러한 접근이 오히려 역효과를 초래할 가능성이 있음을 지적한다. 특히, 강한 신념 체계를 가진 독자들은 논증적 글쓰기를 통해 자신의 입장을 재고하기보다는 더욱 강화하는 경향을 보인다는 점에서, 논증이 설득을 위한 효과적인 방법인지에 대한 근본적인 의문이 제기된다. 이러한 문제는 "논증적 글쓰기는 실제로 독자를 설득하는가?" 라는 철학적이고 실증적인 논쟁으로 이어진다. 한편으로는 논증이 논리적 정합성을 제공하여 독자가 합리적인 결정을 내리도록 돕는다고 주장하는 입장이 있으며, 다른 한편으로는 논증이 오히려 기존 신념을 강화하는 심리적 저항(reactance)을 유발하여 독자의 태도를 더욱 극단적으로 만들 수 있다는 실증적 연구들이 있다. 이러한 딜레마는 논증적 글쓰기가 독자의 신념을 변화시키는 데 있어 얼마나 효과적인지를 평가하는 데 어려움을 초래한다. 논증이 독자를 설득하려면 충분히 강력한 논리적 구조를 갖춰야 하지만, 동시에 너무 강한 논증은 오히려 독자가 자신을 방어하려는 인지적 저항을 불러일으켜 비판적 사고를 차단할 지도 모른다. 이처럼 논증적 글쓰기는 설득과 비판적 사고를 동시에 촉진하려는 과정에서, 논리적 설득과 심리적 저항이라는 상충하는 목표 사이에서 균형을 찾아야 하는 복잡한 문제에 직면하고 있으며, 해당 문헌은 다음의 두 방향에서 비판적 감화를 목적으로 한 글쓰기에서 논증의 엄밀함 이외의 심리적 고려를 포함해야 함을 논증하고 있다.   
-
----
-
-### 2. 주요 논증 및 근거  
-
-#### 2.1 첫 번째 논증: 논증적 글쓰기의 설득력에 대한 기대와 현실  
-저자는 먼저 논증적 글쓰기가 객관적인 사실과 논리적 정합성을 강조하면서 독자의 비판적 사고를 촉진한다고 주장하는 기존 연구에 도전한다. 기존 이론에 따르면, 논리적으로 정교하게 구성된 논증은 독자가 합리적으로 사고할 수 있도록 돕고, 반론을 검토하는 과정을 통해 더 나은 판단을 내릴 수 있게 한다. 그러나 저자는 논증적 글쓰기가 실제로 설득력을 가지는지에 대한 실증적 연구가 부족할 뿐만 아니라, 오히려 논증이 독자의 태도를 변화시키는 것이 아니라 기존 태도를 더욱 강화하는 경향을 보여준다는 점을 A와 같은 최근의 실험 연구결과를 토대로 지적한다. 이를 통해 그는 이는 논증적 글쓰기가 단순히 더 나은 논리를 제공한다고 해서 독자의 입장을 변화시키는 것이 아니라, 독자가 기존 입장을 더욱 공고히 하게 만드는 도구로 작용할 가능성이 있음을 시사한다. 따라서 논증적 글쓰기는 설득을 위한 효과적인 수단이 아닐 수도 있으며, 오히려 독자의 인지적 저항을 고려한 다른 접근이 필요할 수 있다.  
-
-#### 2.2 두 번째 논증: 논증적 글쓰기와 감성적 설득 전략의 충돌  
-논증적 글쓰기는 감성적 호소를 배제하고 논리적 근거를 중심으로 전개되어야 한다는 전통적 가설이 있다. 그러나 저자는 논증이 감성적 요소를 완전히 배제할 경우 설득력을 상실할 수 있다고 주장한다. 논증적 글쓰기가 설득력을 가지려면 독자가 논증을 수용할 심리적 준비가 되어 있어야 하지만, 논리적 근거만으로는 독자의 감정적 반응을 고려하지 못하기 때문에 오히려 논증이 설득력을 잃을 수 있다는 것이다. 예를 들어, 기후변화와 같은 사회적 이슈에 대한 논쟁에서 순수한 데이터와 논리만을 제시하는 방식은 대중을 설득하는 데 실패할 가능성이 높은 반면, 같은 주제를 하더라도 감성적 요소를 결합하여 독자의 공감을 유도하는 방식은 더 강한 설득력, 즉 감화력을 발휘할 수 있다는 것이다. 이와 같이 필자는 논증적 글쓰기가 과연 감화력 있는 담론 전략인지에 대한 의문을 제기하며, 논증의 논리적 정합성과 감성적 설득력이 반드시 대립하는 것이 아니라 상호 보완적으로 작용해야 한다는 새로운 논의를 촉진한다.  
-
----
-
-## 결론  
-이 논문은 논증적 글쓰기가 비판적 사고를 촉진하는 동시에 감화력을 가질 수 있는지에 대한 문제를 중심으로, 논증이 독자의 신념을 변화시키는 효과적인 도구인지에 대해 의문을 제기한다. 저자는 논증적 글쓰기가 독자의 비판적 사고를 자극하는 역할을 하더라도, 반드시 독자의 태도를 변화시키는 것은 아니며, 오히려 인지적 저항을 유발할 가능성이 있음을 강조한다. 이러한 논의는 논증적 글쓰기의 효과성을 평가하는 데 있어 단순히 논리적 정합성만을 고려할 것이 아니라, 독자의 심리적 요인을 함께 분석해야 한다는 점을 시사한다.`;
+    URL.revokeObjectURL(url);
+  }
 
   document.addEventListener("DOMContentLoaded", () => {
-    const mdTextarea = document.getElementById("md");
-    mdTextarea.value = defaultMd; // 기본 템플릿 설정
+    const btn = document.getElementById("btn-asmt-01");
 
-    const btn = document.getElementById("btn");
     btn.addEventListener("click", () => {
-      const name = document.getElementById("name").value.trim();
-      const classNum = document.getElementById("class").value.trim();
-      const number = document.getElementById("number").value.trim();
-      const assignment = document.getElementById("assignment").value.trim();
-      let md = document.getElementById("md").value || "";
+      const name = sanitize(document.getElementById("name").value);
+      const classNo = sanitize(document.getElementById("classNo").value);
+      const serialNo = sanitize(document.getElementById("serialNo").value);
 
-      if (!name || !classNum || !number || !assignment) {
-        alert("이름, 수강반, 연번, 과제 번호를 모두 입력하세요.");
+      if (!name || !classNo || !serialNo) {
+        alert("이름, 수강반, 연번을 모두 입력하세요.");
         return;
       }
 
-      // 템플릿에서 플레이스홀더 대체
-      md = md.replace(/{class}/g, classNum)
-             .replace(/{number}/g, number)
-             .replace(/{name}/g, name)
-             .replace(/{assignment}/g, assignment);
-
-      const filename = `asmt-${sanitize(assignment)}-${sanitize(classNum)}-${sanitize(number)}-${sanitize(name)}.md`;
-
-      try {
-        const blob = new Blob([md], { type: "text/markdown;charset=utf-8" });
-        const url = URL.createObjectURL(blob);
-
-        const a = document.createElement("a");
-        a.href = url;
-        a.download = filename;
-        document.body.appendChild(a);
-        a.click();
-        a.remove();
-
-        URL.revokeObjectURL(url);
-        alert("파일이 다운로드되었습니다: " + filename);
-      } catch (error) {
-        console.error("다운로드 오류:", error);
-        alert("다운로드에 실패했습니다. 콘솔을 확인하세요.");
-      }
+      const filename = `asmt-01-${classNo}-${serialNo}-${name}.md`;
+      const content = asmt01Template(name, classNo, serialNo);
+      downloadText(filename, content);
     });
   });
 </script>
 
 <style>
-  /* Just the Docs 스타일에 자연스럽게 맞추는 최소 CSS */
-  .assignment-gen input, .assignment-gen textarea { width: 100%; box-sizing: border-box; }
-  .assignment-gen textarea { min-height: 240px; }
-  .assignment-gen .btn { margin-top: 0.75rem; }
+  .assignment-gen input {
+    width: 100%;
+    box-sizing: border-box;
+    margin-bottom: 0.5rem;
+  }
+
+  .assignment-gen .btn {
+    margin-top: 0.75rem;
+  }
+
+  .tabs {
+    display: flex;
+    gap: 0.5rem;
+    margin: 0.25rem 0 0.75rem;
+  }
+
+  .tab {
+    border: 1px solid #d0d7de;
+    border-radius: 6px;
+    background: #f6f8fa;
+    color: #24292f;
+    padding: 0.35rem 0.75rem;
+    cursor: default;
+  }
+
+  .tab.active {
+    background: #fff;
+    border-color: #0969da;
+    color: #0969da;
+    font-weight: 600;
+  }
 </style>
