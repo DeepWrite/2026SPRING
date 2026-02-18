@@ -47,17 +47,17 @@ permalink: /assignment-generator/
         return;
       }
 
-      const yaml =
-`---
-name: "${name}"
-student_id: "${studentId}"
-assignment: "${assignment}"
-created_at: "${todayYYYYMMDD()}"
----
+      const yaml = [
+        "---",
+        `name: "${name}"`,
+        `student_id: "${studentId}"`,
+        `assignment: "${assignment}"`,
+        `created_at: "${todayYYYYMMDD()}"`,
+        "---",
+        ""
+      ].join("\n");
 
-`;
-
-      const content = yaml + md;
+      const content = yaml + "\n" + md;
       const filename = `${sanitize(assignment)}_${sanitize(studentId)}_${sanitize(name)}.md`;
 
       const blob = new Blob([content], { type: "text/markdown;charset=utf-8" });
