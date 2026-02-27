@@ -8,7 +8,7 @@ permalink: /references/Locke_Nozick/Second-Treatise_kor/
 
 # 존 로크(John Locke), 정부에 관한 두 번째 논문(Second Treatise of Government), §§ 25-51
 
-[출간된 번역본 참조](https://github.com/DeepWrite/2025FALL/raw/main/assets/pdfs/Locke_property_chapter-5-kor-scanned.pdf){: .btn .btn-primary }
+[출간된 번역본 참조](https://github.com/DeepWrite/2026SPRING/raw/main/assets/pdfs/Locke_property_chapter-5-kor-scanned.pdf){: .btn .btn-primary }
 
 ## 제5장. 재산에 관하여.
 

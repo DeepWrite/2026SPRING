@@ -8,7 +8,7 @@ permalink: /references/Locke_Nozick/Nozick_Anarchy_kor/
 
 ## **Robert Nozick, Anarchy, State, and Utopia (1974)**, pp. 174-182
 
-[출간된 번역본 참조](https://github.com/DeepWrite/2025FALL/raw/main/assets/pdfs/Nozick_Proviso-kor-scanned.pdf){: .btn .btn-primary }
+[출간된 번역본 참조](https://github.com/DeepWrite/2026SPRING/raw/main/assets/pdfs/Nozick_Proviso-kor-scanned.pdf){: .btn .btn-primary }
 
 ## 로크의 전유 이론
 

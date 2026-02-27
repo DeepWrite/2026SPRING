@@ -8,7 +8,7 @@ permalink: /references/Locke_Nozick/Nozick_Anarchy_eng/
 
 ## **Robert Nozick, Anarchy, State, and Utopia (1974)**, pp. 174-182
 
-[영문 원본](https://github.com/DeepWrite/2025FALL/raw/main/assets/pdfs/Nozick_Proviso-eng-scanned.pdf){: .btn .btn-primary }
+[영문 원본](https://github.com/DeepWrite/2026SPRING/raw/main/assets/pdfs/Nozick_Proviso-eng-scanned.pdf){: .btn .btn-primary }
 
 ## Locke's Theory of Appropriation
 

@@ -12,7 +12,7 @@ permalink: /orientation/
 본 강좌는 논증적 글쓰기를 목표로 합니다.
 
 - **강의명:** 대학글쓰기2
-- **학기:** 2025년 2학기
+- **학기:** 2026년 1학기
 - **강의 목표:** 논증적 글쓰기 능력 향상 훈련
 - **운영 방식:** 이론 강의 + 실습 + 코멘트(조별 및 교수자) + 기말논문 작성
 
@@ -33,7 +33,7 @@ permalink: /orientation/
 
 ## 과제 작성 및 제출 방법
 
-- 본 홈페이지의 **[과제 제출 방법]({{site.baseurl}}/assignments)**탭 또는 **ETL**의 지정된 과제함 등에서 **Markdown 서식**을 다운받아 과제별로 제공된 양식을 사용합니다.  (예시: [asmt-01-015-33-홍길동.md](https://raw.githubusercontent.com/DeepWrite/2025FALL/main/templates/asmt-01-015-33-홍길동.md) 우클릭 다운로드)
+- 본 홈페이지의 **[과제 제출 방법]({{site.baseurl}}/assignments)**탭 또는 **ETL**의 지정된 과제함 등에서 **Markdown 서식**을 다운받아 과제별로 제공된 양식을 사용합니다.  (예시: [asmt-01-015-33-홍길동.md](https://raw.githubusercontent.com/DeepWrite/2026SPRING/main/templates/asmt-01-015-33-홍길동.md) 우클릭 다운로드)
 - 최종본 제출: **[eTL](https://etl.snu.ac.kr)의 과제제출함**에 요구된 `지정된파일명형식준수.md` 파일 형식으로 **제출 기한 내에 업로드**해야 합니다.  
 - [마크다운 문서 작성법]({{site.baseurl}}/tools/markdown)에 대해, 2차시에 강의합니다.
 

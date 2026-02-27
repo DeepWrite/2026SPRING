@@ -1,12 +1,12 @@
-title: 2025-2학기
+title: 2026-1학기
 description: 서울대학교 대학글쓰기2 강좌 강의자료
 theme: just-the-docs
-baseurl: "/2025FALL"
+baseurl: "/2026SPRING"
 
 url: https://DeepWrite.github.io/
 
 aux_links:
-  반별 제출 과제 열람: https://deepwrite.github.io/2025FALL/works/
+  반별 제출 과제 열람: https://deepwrite.github.io/2026SPRING/works/
 
 mermaid:
   version: "10.9.1"
