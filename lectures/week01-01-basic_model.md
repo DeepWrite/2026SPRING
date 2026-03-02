@@ -1,8 +1,9 @@
 ---
-title: 기본 논증문 모델(1주차 1차시)
+title: 1주차 (1차시) 기본 논증문 모델
 layout: home
-nav_order: 40
-permalink: /basic-model/
+nav_order: 1
+parent: 강의내용
+permalink: /lectures/week01-01_basic-model/
 ---
 
 <div class="jtddiagram" role="img" aria-label="좋은 논증문 구조: 서론, 논제–반논제 순환을 통한 부분결론(Lemma)들, 종합(Integration), 최종결론(Theorem).">
