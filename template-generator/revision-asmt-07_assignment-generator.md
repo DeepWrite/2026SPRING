@@ -2,7 +2,7 @@
 title: (개선) 과제-07 템플릿 생성기
 layout: home
 nav_order: 18
-parent: 과제-07 개인별 논증 구조 작성하기
+parent: (개선) 과제-07 개인별 논증 구조 작성안 수정
 permalink: /assignment-generator/revision-asmt-07
 ---
 

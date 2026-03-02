@@ -1,8 +1,8 @@
 ---
 title: (개선) 과제-04 템플릿 생성기
 layout: home
-nav_order: 17
-parent: 과제-04 5-6단락 논증에세이
+nav_order: 1
+parent: (개선) 과제-04 5-6단락 논증에세이 수정
 permalink: /assignment-generator/revision-asmt-04
 ---
 

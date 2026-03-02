@@ -2,7 +2,7 @@
 title: (개선) 과제-01 템플릿 생성기
 layout: home
 nav_order: 16
-parent: 과제-01 요약문 작성 연습
+parent: (개선) 과제-01 요약문 작성 연습 수정
 permalink: /assignment-generator/revision-asmt-01
 ---
 
