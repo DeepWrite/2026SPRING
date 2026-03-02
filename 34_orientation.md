@@ -5,7 +5,7 @@ nav_order: 34
 permalink: /orientation/
 ---
 
-# 오리엔테이션
+# 강의 진행 일반사항(오리엔테이션)
 
 ## 강의 개요
 
