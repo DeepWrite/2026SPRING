@@ -1,16 +1,71 @@
 ---
-title: 015-33 홍길동의 코멘트 31 (과제-08) 
+title: 코멘트-08 템플릿 생성기
 layout: home
-nav_order: 33
-parent: 015-31 홍길북 (과제-08)
-permalink: /asmt-08/015-31/comment-015-33
+nav_order: 1
+parent: 과제-08에 대한 코멘트
+permalink: /assignment-generator/comment-08
 ---
 
+<div class="assignment-gen comment-gen">
+  <h2>과제-08 코멘트 템플릿 생성기</h2>
+
+  <div class="tabs" role="tablist" aria-label="코멘트 선택">
+    <button id="tab-comment-08" class="tab active" role="tab" aria-selected="true">코멘트-08</button>
+  </div>
+
+  <div class="panel" role="tabpanel" aria-labelledby="tab-comment-08">
+    <div class="card card-course">
+      <h3>공통 정보</h3>
+      <input id="classNo" class="form-control" placeholder="수강반 (예: 015)" />
+    </div>
+
+    <div class="split-grid">
+      <div class="card card-writer">
+        <h3>작성자 정보</h3>
+        <input id="writerSerialNo" class="form-control" placeholder="연번 (예: 33)" />
+        <input id="writerName" class="form-control" placeholder="이름 (예: 홍길동)" />
+      </div>
+
+      <div class="card card-target">
+        <h3>코멘트 받을 학생 정보</h3>
+        <input id="targetSerialNo" class="form-control" placeholder="연번 (예: 31)" />
+        <input id="targetName" class="form-control" placeholder="이름 (예: 홍길서)" />
+      </div>
+    </div>
+
+    <button id="btn-comment-08" class="btn">코멘트-08 템플릿 다운로드</button>
+    <p class="text-small text-grey-dk-100">
+      파일명: <code>comment-08-수강반-작성자연번-작성자이름-대상연번.md</code>
+    </p>
+  </div>
+</div>
+
+<script>
+  function sanitize(s) {
+    return (s ?? "")
+      .toString()
+      .trim()
+      .replace(/[\\/:*?"<>|]/g, "")
+      .replace(/\s+/g, "");
+  }
+
+  function comment08Template(classNo, writerSerialNo, writerName, targetSerialNo, targetName) {
+    const navOrder = String(parseInt(writerSerialNo, 10) || writerSerialNo).trim();
+    const head = `---
+title: ${classNo}-${writerSerialNo} ${writerName}의 코멘트 ${targetSerialNo} (과제-08)
+layout: home
+nav_order: ${navOrder}
+parent: ${classNo}-${targetSerialNo} ${targetName} (과제-08)
+permalink: /asmt-08/${classNo}-${targetSerialNo}/comment-${classNo}-${writerSerialNo}
+---
+`;
+
+    const body = `
 # 과제-08 기말과제 초고에 대한 코멘트
 
-- 대상과제: `과제-08 기말과제 초고 작성하기`
-- 코멘트를 제공하는 학생: `015-33 홍길동(작성자)` 
-- 코멘트를 받는 학생: `015-31 홍길북(코멘트를 받는 학생 이름)` 
+- 대상과제: \`과제-08 기말과제 초고 작성하기\`
+- 코멘트를 제공하는 학생: \`${classNo}-${writerSerialNo} ${writerName}(작성자)\` 
+- 코멘트를 받는 학생: \`${classNo}-${targetSerialNo} ${targetName}(코멘트를 받는 학생 이름)\` 
 
 ## 코멘트
 
@@ -201,3 +256,115 @@ permalink: /asmt-08/015-31/comment-015-33
 ### B. 논증에 대한 평가
 
 (작성)
+`;
+
+    return head + body;
+  }
+
+  function downloadText(filename, text) {
+    const blob = new Blob([text], { type: "text/markdown;charset=utf-8" });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement("a");
+
+    a.href = url;
+    a.download = filename;
+    document.body.appendChild(a);
+    a.click();
+    a.remove();
+
+    URL.revokeObjectURL(url);
+  }
+
+  document.addEventListener("DOMContentLoaded", () => {
+    const btn = document.getElementById("btn-comment-08");
+
+    btn.addEventListener("click", () => {
+      const classNo = sanitize(document.getElementById("classNo").value);
+      const writerSerialNo = sanitize(document.getElementById("writerSerialNo").value);
+      const writerName = sanitize(document.getElementById("writerName").value);
+      const targetSerialNo = sanitize(document.getElementById("targetSerialNo").value);
+      const targetName = sanitize(document.getElementById("targetName").value);
+
+      if (!classNo || !writerSerialNo || !writerName || !targetSerialNo || !targetName) {
+        alert("수강반, 작성자 정보, 코멘트 받을 학생 정보를 모두 입력하세요.");
+        return;
+      }
+
+      const filename = `comment-08-${classNo}-${writerSerialNo}-${writerName}-${targetSerialNo}.md`;
+      const content = comment08Template(classNo, writerSerialNo, writerName, targetSerialNo, targetName);
+      downloadText(filename, content);
+    });
+  });
+</script>
+
+<style>
+  .assignment-gen input {
+    width: 100%;
+    box-sizing: border-box;
+    margin-bottom: 0.5rem;
+  }
+
+  .assignment-gen .btn {
+    margin-top: 0.75rem;
+  }
+
+  .tabs {
+    display: flex;
+    gap: 0.5rem;
+    margin: 0.25rem 0 0.75rem;
+  }
+
+  .tab {
+    border: 1px solid #d0d7de;
+    border-radius: 6px;
+    background: #f6f8fa;
+    color: #24292f;
+    padding: 0.35rem 0.75rem;
+    cursor: default;
+  }
+
+  .tab.active {
+    background: #fff;
+    border-color: #0969da;
+    color: #0969da;
+    font-weight: 600;
+  }
+
+  .split-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0.75rem;
+  }
+
+  .card {
+    border: 1px solid #d0d7de;
+    border-radius: 8px;
+    padding: 0.75rem;
+    margin-bottom: 0.75rem;
+  }
+
+  .card h3 {
+    margin: 0 0 0.5rem 0;
+    font-size: 0.95rem;
+  }
+
+  .card-course {
+    background: #f8f9fb;
+  }
+
+  .card-writer {
+    background: #f3f9ff;
+    border-color: #8ec5ff;
+  }
+
+  .card-target {
+    background: #fff8f2;
+    border-color: #ffcc9e;
+  }
+
+  @media (max-width: 768px) {
+    .split-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

@@ -1,5 +1,5 @@
 ---
-title: 코멘트-03 과제-03에 대한 코멘트
+title: 과제-03에 대한 코멘트
 layout: home
 nav_order: 12
 parent: 과제 제출 방법
