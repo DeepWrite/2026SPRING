@@ -1,12 +1,13 @@
 ---
-title: 과제 템플릿 생성기5
+title: 과제-01 요약문 템플릿 생성기
 layout: home
-nav_order: 700
-permalink: /assignment-generator/
+nav_order: 1
+parent: 과제-01 요약문 작성 연습
+permalink: /assignment-generator/asmt-01
 ---
 
 <div class="assignment-gen">
-  <h2>과제 템플릿 파일 생성기</h2>
+  <h2>과제-01 요약문 작성 연습 템플릿 생성기</h2>
 
   <div class="tabs" role="tablist" aria-label="과제 선택">
     <button id="tab-asmt-01" class="tab active" role="tab" aria-selected="true">과제-01</button>
@@ -41,11 +42,11 @@ permalink: /assignment-generator/
       `title: ${classNo}-${serialNo} ${name} (과제-01)`,
       "layout: home",
       `nav_order: ${navOrder}`,
-      "parent: 과제-01 요약 연습",
+      "parent: 과제-01 요약문 작성 연습",
       `permalink: /asmt-01/${classNo}-${serialNo}`,
       "---",
       "",
-      `# 과제-01 요약 연습 ${classNo}-${serialNo} ${name} `,
+      `# 과제-01 요약문 작성 연습 ${classNo}-${serialNo} ${name} `,
       "",
       "## 대상 문헌  ",
       "**제목**: 논증적 글쓰기의 역할과 한계: 비판적 사고와 설득의 상호작용  ",

@@ -1,12 +1,12 @@
 ---
-title: (개선) 과제-01 요약 연습 수정
+title: (개선) 과제-01 요약문 작성 연습 수정
 layout: home
 nav_order: 4
 parent: 과제 제출 방법
 permalink: /assignments/revision-asmt-01/
 ---
 
-# (개선) 과제-01 요약 연습 수정하기 (5차시)
+# (개선) 과제-01 요약문 작성 연습 수정하기 (5차시)
 
 ## 과제 설명
 
@@ -40,14 +40,14 @@ permalink: /assignments/revision-asmt-01/
 
 ```
 ---
-title: (개선) 과제-01 요약 연습 015-33 홍길동
+title: (개선) 과제-01 요약문 작성 연습 015-33 홍길동
 layout: home
 nav_order: 99
 parent: 015-33 홍길동 (과제-01)
 permalink: /asmt-01/015-33/revision
 ---
 
-# (개선) 과제-01 요약 연습 015-33 홍길동 
+# (개선) 과제-01 요약문 작성 연습 015-33 홍길동 
 
 
 ## 대상 문헌
