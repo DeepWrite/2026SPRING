@@ -13,14 +13,20 @@ permalink: /syllabus/
 
 ### (1주차) 2026.3.1 ~ 3.7
 
-- 1차시: (오리엔테이션) 기본 논증문 모델 설명
+- 1차시: (오리엔테이션) 강좌 홈페이지 및 기본 논증문 모델 설명
+  - [강의 진행 일반사항(오리엔테이션)]({{site.baseurl}}/orientation)
+  - 강좌 홈페이지 및 eTL의 사용
+  - [생성형 AI 활용 정책]({{site.baseurl}}/AI-Policy) 설명
   - **강의**: [1주차 (1차시) 기본 논증문 모델]({{site.baseurl}}/lectures/week01-01_basic-model)
 
 - 2차시: (강의계획 설명) 강의계획, 논증적 글쓰기에 대한 이론적 이해, 과제문서 작성방법 설명
-  - [오리엔테이션(1주차 2차시)]({{site.baseurl}}/orientation)
-  - **강의**: [1주차 (2차시) 논증적 글쓰기]({{site.baseurl}}/lectures/week01-02)
   - **[마크다운 문서 작성법]({{site.baseurl}}/tools/markdown)** 설명
-  - **VS CODE(https://code.visualstudio.com)** 소개 
+  - 문서작성 도구 소개(**[VS CODE](https://code.visualstudio.com)**)
+    - 우리 수업을 위한 과제폴더를 하나 생성하세요. 예) 폴더명: `과제폴더`
+    - 해당 폴더에 생성된 과제 양식을 저장하세요.
+    - **VS CODE**에서, 개별 **file**을 열지 **말고**, 반드시 `과제폴더` 와 같은 **folder**를 열어서 작성하기 바랍니다.
+    - 작업한 파일을 수시로 저장(`ctrl` or `cmd`+S) 하기 바랍니다.
+  - **강의**: [1주차 (2차시) 논증적 글쓰기]({{site.baseurl}}/lectures/week01-02) 
 
 - **다음 주 수업 준비**
   - **플립드 러닝(Flipped Learning)**: [3차시 논제와 논증 영상강좌와 강의자료 사전 학습]({{site.baseurl}}/lectures/week02-03-01)해 올 것(3차시에 Quiz 수행)
@@ -35,7 +41,7 @@ permalink: /syllabus/
   - **Quiz-01** (5분)
   - [2주차 (3차시) 2. 문헌독해연습]({{site.baseurl}}/lectures/week02-03-02): **[로크의 재산 이론과 노직의 반론 관련 문헌들]({{site.baseurl}}/references/Locke_Nozick/)** 읽고 교수자와 함께 내용 검토. (45분)
 
-- 4차시: (요약 연습)
+- 4차시: (요약 연습) THESIS와 ARGUMENT 중심으로 요약하기
   - [2주차 (4차시) 요약의 이해와 요약문 작성]({{site.baseurl}}/lectures/week02-04)
   - **강의**: 요약문의 이해 (15분)
   - **(과제-01)** 요약문 작성
@@ -53,7 +59,7 @@ permalink: /syllabus/
 ### (3주차) 2026.3.15 ~ 3.21
 
 - 5차시: (상호 코멘트 연습) 작성된 요약문에 대해 상호 피드백하기
-  - **(과제-01-코멘트)** [3주차 (5차시) 1. 요약문에 대한 코멘트]({{site.baseurl}}/lectures/week03-05-01)
+  - **(과제-01에 대한 코멘트)** [3주차 (5차시) 1. 요약문에 대한 코멘트]({{site.baseurl}}/lectures/week03-05-01)
   - **조별 코멘트**: [요약문 작성 연습 - 코멘트-01 과제 제출]({{site.baseurl}}/assignments/comment-01-asmt-01) (40분)
     - 수업 시간에 코멘트 대상자 **3인** 공지
     - (**AI FREE**) **지정된 1인**에 대한 코멘트는 수업 중 마감 제출.
@@ -88,7 +94,7 @@ permalink: /syllabus/
 
 - 8차시: 단락구성의 이해, 단락작성 연습
   - **강의**: O-R-E-O 오레오 ?! (20분)
-  - (수업 중 마감) **인클래스 과제**: [단문 연습]() (40분)
+  - (**AI FREE**) **인클래스 과제**: [단문 연습]() (40분)
     - 논제 및 논증으로 구성된 단문 작성하기
     - 자신의 핵심 주장과 근거를 제시하는 단문 작성.
 
