@@ -102,7 +102,7 @@ permalink: /assignment-generator/asmt-02
       "- Tufekci, Z. (2017). *Twitter and Tear Gas: The Power and Fragility of Networked Protest*. Yale University Press.  ",
       "- Pariser, E. (2011). *The Filter Bubble: What the Internet Is Hiding from You*. Penguin Press.",
       ""
-    ].join("\\n");
+    ].join("\n");
   }
 
   function downloadText(filename, text) {

@@ -108,7 +108,7 @@ permalink: /assignment-generator/asmt-07
       "- Nordhaus, William, 2019. \"Climate Change: The Ultimate Challenge for Economics,\" *American Economic Review*, 109(6), pp. 1991-2014.",
       "- IPCC, 2023. *Climate Change 2023: Impacts, Adaptation and Vulnerability*.",
       ""
-    ].join("\\n");
+    ].join("\n");
   }
 
   function downloadText(filename, text) {

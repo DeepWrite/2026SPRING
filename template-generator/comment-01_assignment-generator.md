@@ -96,7 +96,7 @@ permalink: /assignment-generator/comment-01
       "- [x] 논문의 다른 주요 추론적 전략이 불충분하게 서술되었다.",
       "- [ ] 논증과 반론이 충실하게 요약되었다. ",
       ""
-    ].join("\\n");
+    ].join("\n");
   }
 
   function downloadText(filename, text) {
