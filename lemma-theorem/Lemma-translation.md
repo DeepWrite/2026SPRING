@@ -2,7 +2,7 @@
 title: 좋은 논증문의 기본 모델
 layout: home
 nav_order: 50
-parent: 기본 논증문 모델(1주차 1차시)
+parent: 1주차 (1차시) 기본 논증문 모델
 permalink: /basic-model/model/
 ---
 

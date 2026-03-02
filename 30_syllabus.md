@@ -14,7 +14,7 @@ permalink: /syllabus/
 ### (1주차) 2026.3.1 ~ 3.7
 
 - 1차시: (오리엔테이션) 기본 논증문 모델 설명
-  - **강의**: [기본 논증문 모델(1주차 1차시)]({{site.baseurl}}/basic-model/lemma)
+  - **강의**: [1주차 (1차시) 기본 논증문 모델]({{site.baseurl}}/lectures/week01-01_basic-model)
 
 - 2차시: (강의계획 설명) 강의계획, 논증적 글쓰기에 대한 이론적 이해, 과제문서 작성방법 설명
   - [오리엔테이션(1주차 2차시)]({{site.baseurl}}/orientation)

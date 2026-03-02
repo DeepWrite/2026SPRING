@@ -2,7 +2,7 @@
 title: 좋은 논증문의 구조 도해 - 모의 에세이 예시
 layout: home
 nav_order: 90
-parent: 기본 논증문 모델(1주차 1차시)
+parent: 1주차 (1차시) 기본 논증문 모델
 permalink: /basic-model/lemma-samples/
 ---
 
