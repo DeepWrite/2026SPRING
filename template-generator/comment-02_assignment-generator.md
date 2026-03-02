@@ -65,7 +65,7 @@ permalink: /assignment-generator/comment-02
       "",
       "- 대상과제: `과제-02 쟁점과 딜레마 분석`",
       `- 코멘트를 제공하는 학생: \`${classNo}-${writerSerialNo} ${writerName}(작성자)\` `,
-      `- 코멘트를 받는 학생: \`${classNo}-${targetSerialNo} ${targetName}(코멘트를 받는 학생 이름)\` `,
+      `- 코멘트를 받는 학생: \`${classNo}-${targetSerialNo} ${targetName}\` `,
       "",
       "---",
       "",
