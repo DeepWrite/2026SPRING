@@ -1,0 +1,144 @@
+---
+title: (개선) 과제-01 템플릿 생성기
+layout: home
+nav_order: 16
+parent: 과제-01 요약문 작성 연습
+permalink: /assignment-generator/revision-asmt-01
+---
+
+<div class="assignment-gen">
+  <h2>(개선) 과제-01 요약문 작성 연습 템플릿 생성기</h2>
+
+  <div class="tabs" role="tablist" aria-label="과제 선택">
+    <button id="tab-revision-asmt-01" class="tab active" role="tab" aria-selected="true">개선 과제-01</button>
+  </div>
+
+  <div class="panel" role="tabpanel" aria-labelledby="tab-revision-asmt-01">
+    <input id="name" class="form-control" placeholder="이름 (예: 홍길동)" />
+    <input id="classNo" class="form-control" placeholder="수강반 (예: 015)" />
+    <input id="serialNo" class="form-control" placeholder="연번 (예: 33)" />
+
+    <button id="btn-revision-asmt-01" class="btn">(개선) 과제-01 템플릿 다운로드</button>
+    <p class="text-small text-grey-dk-100">
+      파일명: <code>revision-asmt-01-수강반-연번-이름.md</code>
+    </p>
+  </div>
+</div>
+
+<script>
+  function sanitize(s) {
+    return (s ?? "")
+      .toString()
+      .trim()
+      .replace(/[\\/:*?"<>|]/g, "")
+      .replace(/\s+/g, "");
+  }
+
+  function revisionAsmt01Template(name, classNo, serialNo) {
+    return [
+      "---",
+      `title: (개선) 과제-01 요약문 작성 연습 ${classNo}-${serialNo} ${name}`,
+      "layout: home",
+      "nav_order: 99",
+      `parent: ${classNo}-${serialNo} ${name} (과제-01)`,
+      `permalink: /asmt-01/${classNo}-${serialNo}/revision`,
+      "---",
+      "",
+      `# (개선) 과제-01 요약문 작성 연습 ${classNo}-${serialNo} ${name} `,
+      "",
+      "",
+      "## 대상 문헌",
+      "**제목**: 대상 문헌의 제목 작성  ",
+      "**저자**: 저자 이름  ",
+      "**출처**: 학술지 등 서지 정보  ",
+      "",
+      "## 1. 핵심 쟁점과 딜레마  ",
+      "이 논문은 논증적 글쓰기가 비판적 사고를 촉진하는 필수적인 도구로 여겨지지만, 설득을 목표로 하는 과정에서 오히려 독자의 방어적 태도를 강화할 수 있다는 점을 문제 삼는다. 기존 연구들은 논증적 글쓰기가 논리적 일관성을 높이고 객관적 판단을 촉진하는 역할을 한다고 평가해 왔지만, 저자는 이러한 접근이 오히려 역효과를 초래할 가능성이 있음을 지적한다. 특히, 강한 신념 체계를 가진 독자들은 논증적 글쓰기를 통해 자신의 입장을 재고하기보다는 더욱 강화하는 경향을 보인다는 점에서, 논증이 단순한 설득 도구인지, 아니면 보다 심층적인 감화력을 가져야 하는지에 대한 근본적인 의문이 제기된다.  ",
+      "",
+      "이러한 문제는 \"논증적 글쓰기는 독자의 사고를 변화시키는가?\"라는 철학적이고 실증적인 논쟁으로 이어진다. 논증이 논리적 정합성을 제공하여 독자가 합리적인 결정을 내리도록 돕는다는 입장이 있는 반면, 논증이 오히려 기존 신념을 강화하는 심리적 저항(reactance)을 유발할 수 있다는 실증적 연구들도 존재한다. 따라서 논증적 글쓰기가 효과적인 설득력을 가지려면 단순한 논리적 타당성을 넘어, 독자의 감화력을 고려해야 한다. 저자는 논증적 글쓰기가 설득과 비판적 사고를 동시에 촉진하려는 과정에서 논리적 설득과 심리적 저항이라는 상충하는 목표 사이에서 균형을 찾아야 하는 복잡한 문제에 직면하고 있다고 주장한다.  ",
+      "",
+      "## 2. 주요 논증 및 근거  ",
+      "",
+      "### 2.1 첫 번째 논증: 논증적 글쓰기의 감화력과 설득력의 차이  ",
+      "저자는 논증적 글쓰기가 단순한 설득력이 아니라 감화력을 지녀야 한다는 점을 강조한다. 기존 연구들은 논리적으로 정교한 논증이 독자가 합리적으로 사고할 수 있도록 돕고, 반론을 검토하는 과정을 통해 더 나은 판단을 내릴 수 있게 한다고 본다. 그러나 저자는 논증적 글쓰기가 독자의 태도를 변화시키는 것보다 기존 태도를 더욱 강화하는 경향이 있음을 실증적 연구(A 연구)를 통해 제시한다. 특히, 단순한 설득력이 아닌 감화력을 고려하지 않으면, 독자가 논증을 받아들이는 과정에서 오히려 인지적 저항을 일으킬 수 있다고 분석한다.  ",
+      "",
+      "저자는 이 점을 강조하며, 논증이 단순히 논리적 타당성을 확보하는 것만으로는 충분하지 않으며, 독자가 논증을 수용하도록 하는 심리적 요소를 함께 고려해야 한다고 주장한다. 이러한 점에서 논증적 글쓰기는 설득을 위한 효과적인 수단이 아닐 수도 있으며, 오히려 독자의 인지적 저항을 고려한 보다 폭넓은 접근이 필요하다고 본다.  ",
+      "",
+      "### 2.2 두 번째 논증: 논증적 글쓰기와 감성적 설득 전략의 관계  ",
+      "논증적 글쓰기는 일반적으로 감성적 요소를 배제하고 논리적 근거를 중심으로 전개해야 한다는 전통적 가설이 있다. 그러나 저자는 논증이 감성적 요소를 완전히 배제할 경우 오히려 감화력을 잃을 수 있다고 주장한다. 예를 들어, 기후변화와 같은 사회적 이슈에서 순수한 데이터와 논리만을 제시하는 방식은 대중을 설득하는 데 실패할 가능성이 높다. 반면, 같은 주장을 하더라도 감성적 요소를 결합하여 독자의 공감을 유도하는 방식은 더 강한 감화력을 발휘할 수 있다.  ",
+      "",
+      "이처럼 필자는 논증적 글쓰기가 과연 감화력 있는 담론 전략인지에 대한 의문을 제기하며, 논증의 논리적 정합성과 감성적 설득이 반드시 대립하는 것이 아니라 상호 보완적으로 작용해야 한다는 점을 강조한다. 따라서 단순한 설득력보다는 감화력을 포함하는 논증 전략이 필요하다는 점을 시사한다.  ",
+      "",
+      "## 3. 결론  ",
+      "이 논문은 논증적 글쓰기가 비판적 사고를 촉진하는 동시에 감화력을 가질 수 있는지에 대한 문제를 중심으로 논증이 독자의 신념을 변화시키는 효과적인 도구인지에 대해 의문을 제기한다. 저자는 논증적 글쓰기가 독자의 비판적 사고를 자극하는 역할을 하더라도, 반드시 독자의 태도를 변화시키는 것은 아니며, 오히려 인지적 저항을 유발할 가능성이 있음을 강조한다. 따라서 논증적 글쓰기의 효과성을 평가할 때 단순한 논리적 정합성을 넘어 독자의 심리적 요인을 함께 분석해야 한다는 점을 제시하며, 감화력을 갖춘 논증적 글쓰기가 보다 효과적일 가능성을 제안한다.  ",
+      ""
+    ].join("\n");
+  }
+
+  function downloadText(filename, text) {
+    const blob = new Blob([text], { type: "text/markdown;charset=utf-8" });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement("a");
+
+    a.href = url;
+    a.download = filename;
+    document.body.appendChild(a);
+    a.click();
+    a.remove();
+
+    URL.revokeObjectURL(url);
+  }
+
+  document.addEventListener("DOMContentLoaded", () => {
+    const btn = document.getElementById("btn-revision-asmt-01");
+
+    btn.addEventListener("click", () => {
+      const name = sanitize(document.getElementById("name").value);
+      const classNo = sanitize(document.getElementById("classNo").value);
+      const serialNo = sanitize(document.getElementById("serialNo").value);
+
+      if (!name || !classNo || !serialNo) {
+        alert("이름, 수강반, 연번을 모두 입력하세요.");
+        return;
+      }
+
+      const filename = `revision-asmt-01-${classNo}-${serialNo}-${name}.md`;
+      const content = revisionAsmt01Template(name, classNo, serialNo);
+      downloadText(filename, content);
+    });
+  });
+</script>
+
+<style>
+  .assignment-gen input {
+    width: 100%;
+    box-sizing: border-box;
+    margin-bottom: 0.5rem;
+  }
+
+  .assignment-gen .btn {
+    margin-top: 0.75rem;
+  }
+
+  .tabs {
+    display: flex;
+    gap: 0.5rem;
+    margin: 0.25rem 0 0.75rem;
+  }
+
+  .tab {
+    border: 1px solid #d0d7de;
+    border-radius: 6px;
+    background: #f6f8fa;
+    color: #24292f;
+    padding: 0.35rem 0.75rem;
+    cursor: default;
+  }
+
+  .tab.active {
+    background: #fff;
+    border-color: #0969da;
+    color: #0969da;
+    font-weight: 600;
+  }
+</style>
