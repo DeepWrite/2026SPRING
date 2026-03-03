@@ -15,9 +15,11 @@ permalink: /
 ---
 
 > 이 문서는 손제연 교수의 2026년 1학기 대학글쓰기2 강의의 공식 가이드입니다. 
-> 강의 일정, 과제 제출 방식, 출석 기준 등 전체 내용을 [오리엔테이션(1주차 2차시)]({{site.baseurl}}/orientation)에서 확인할 수 있으니, **모든 질문은 오리엔테이션 내용을 숙독 후**에  하기 바랍니다.
+> 강의 일정, 과제 제출 방식, 출석 기준 등 주요 내용을 [강의 진행 일반사항(오리엔테이션)]({{site.baseurl}}/orientation)에서 확인할 수 있으니, **모든 질문은 오리엔테이션 내용을 숙독 후**에  하기 바랍니다.
+> 수업시간 중 공지된 사항이 본 홈페이지의 안내에 우선합니다.
+> 강의계획 세부사항은 3월 둘째 주까지 상당히 변경될 수 있습니다.
 
-[강의계획 및 주의사항–오리엔테이션(1주차 2차시)]({{site.baseurl}}/orientation){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[강의 진행 일반사항(오리엔테이션)]({{site.baseurl}}/orientation){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 ## 강의 개요
 
@@ -35,7 +37,7 @@ permalink: /
 
 - [강의계획서]({{site.baseurl}}/syllabus/)
 - [결석 및 공결처리]({{site.baseurl}}/attendance/)
-- [오리엔테이션]({{site.baseurl}}/orientation/)
+- [강의 진행 일반사항(오리엔테이션)]({{site.baseurl}}/orientation/)
 
 <br>
 
