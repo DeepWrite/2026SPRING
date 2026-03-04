@@ -1,3 +1,4 @@
+
 ---
 title: 섹션별 논제와 논증
 layout: home

@@ -1,3 +1,4 @@
+
 ---
 title: 반박·수정·계승
 layout: home

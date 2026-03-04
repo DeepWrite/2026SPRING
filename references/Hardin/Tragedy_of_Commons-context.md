@@ -1,3 +1,4 @@
+
 ---
 title: 공유지의 비극의 지적 계보
 layout: home
