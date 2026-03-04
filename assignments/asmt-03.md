@@ -30,7 +30,7 @@ title: 015-33 홍길동 (과제-03)
 layout: home
 nav_order: 33
 parent: 과제-03 단문 연습
-permalink: /asmt-02/015-33
+permalink: /asmt-03/015-33
 ---
 
 # 과제-03 단문 연습 015-33 홍길동 
