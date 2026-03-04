@@ -2,8 +2,8 @@
 title: 섹션별 논제와 논증
 layout: home
 nav_order: 51
-parent: 하딘의 공유지의 비극
-permalink: /references/Hardin/Argument_Sections/
+parent: 논제와 논증 구조 분석
+permalink: /references/Hardin/Arguments/Argument_Sections/
 ---
 
 # 섹션별 분석

@@ -2,8 +2,8 @@
 title: 논증구조 Map
 layout: home
 nav_order: 52
-parent: 하딘의 공유지의 비극
-permalink: /references/Hardin/Argument_Map/
+parent: 논제와 논증 구조 분석
+permalink: /references/Hardin/Arguments/Argument_Map/
 ---
 
 # Garrett Hardin, *The Tragedy of the Commons*
