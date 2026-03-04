@@ -1,7 +1,7 @@
 ---
 title: 틱택토 (Tic-Tac-Toe)
 layout: home
-nav_order: 1
+nav_order: 2
 parent: The Tragedy of the Commons (1968)(번역본)
 permalink: /references/Hardin/OriginalText_kor/Tic-Tac-Toe/
 ---

@@ -1,7 +1,7 @@
 ---
 title: 공유지의 비극의 지적 계보
 layout: home
-nav_order: 30
+nav_order: 60
 parent: 하딘의 공유지의 비극
 permalink: /references/Hardin/genealogy/
 ---

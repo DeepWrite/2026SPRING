@@ -1,9 +1,9 @@
 ---
 title: 섹션별 논제와 논증
 layout: home
-nav_order: 51
-parent: 논제와 논증 구조 분석
-permalink: /references/Hardin/Arguments/Argument_Sections/
+nav_order: 1
+parent: The Tragedy of the Commons (1968)(번역본)
+permalink: /references/Hardin/OriginalText_kor/Argument_Sections/
 ---
 
 # 섹션별 분석
