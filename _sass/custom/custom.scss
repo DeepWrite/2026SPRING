@@ -1,0 +1,17 @@
+/* Prevent Mermaid node labels from being clipped in Just the Docs pages. */
+.mermaid {
+  svg {
+    overflow: visible;
+    height: auto;
+  }
+
+  foreignObject {
+    overflow: visible;
+  }
+
+  .label,
+  .nodeLabel,
+  .edgeLabel {
+    line-height: 1.4 !important;
+  }
+}
