@@ -31,7 +31,7 @@ title: 015-33 홍길동 (과제-02)
 layout: home
 nav_order: 33
 parent: 과제-02 쟁점과 딜레마 분석
-permalink: /asmt-03/015-33
+permalink: /asmt-02/015-33
 ---
 
 # 과제-02 쟁점과 딜레마 분석 015-33 홍길동 

@@ -30,6 +30,7 @@ permalink: /syllabus/
 
 - **다음 주 수업 준비**
   - **플립드 러닝(Flipped Learning)**: [3차시 논제와 논증 영상강좌와 강의자료 사전 학습]({{site.baseurl}}/lectures/week02-03-01)해 올 것(3차시에 Quiz 수행)
+  - **[로크의 재산 이론과 노직의 반론 관련 문헌들]({{site.baseurl}}/references/Locke_Nozick)** (또는, **[하딘의 공유지의 비극]({{site.baseurl}}/references/Hardin/OriginalText_kor)**  )읽어오기
 
 ---
 
@@ -37,9 +38,9 @@ permalink: /syllabus/
 
 - 3차시: (논증문의 구조와 구성요소) 논증문을 구성하는 THESIS와 ARGUMENT의 이해
   - [2주차 (3차시) 1. 논제와 논증]({{site.baseurl}}/lectures/week02-03-01)
-  - **플립드 러닝(Flipped Learning)**: 논제와 논증 Q&A (20분)
-  - **Quiz-01** (5분)
-  - [2주차 (3차시) 2. 문헌독해연습]({{site.baseurl}}/lectures/week02-03-02): **[로크의 재산 이론과 노직의 반론 관련 문헌들]({{site.baseurl}}/references/Locke_Nozick/)** 읽고 교수자와 함께 내용 검토. (45분)
+  - 논제와 논증 Q&A (20분)
+  - **Quiz-01** 수행 (5분)
+  - [2주차 (3차시) 2. 문헌독해연습]({{site.baseurl}}/lectures/week02-03-02): 선정된 **[강의보조자료]({{site.baseurl}}/references)** 등을 읽고 교수자와 함께 내용 검토. (45분)
 
 - 4차시: (요약 연습) THESIS와 ARGUMENT 중심으로 요약하기
   - [2주차 (4차시) 요약의 이해와 요약문 작성]({{site.baseurl}}/lectures/week02-04)

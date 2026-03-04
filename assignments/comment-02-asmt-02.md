@@ -25,7 +25,7 @@ title: 015-33 홍길동의 코멘트 31 (과제-02)
 layout: home
 nav_order: 33
 parent: 015-31 홍길북 (과제-02)
-permalink: /asmt-03/015-31/comment-015-33
+permalink: /asmt-02/015-31/comment-015-33
 ---
 
 # 과제-02 쟁점과 딜레마 분석에 대한 코멘트

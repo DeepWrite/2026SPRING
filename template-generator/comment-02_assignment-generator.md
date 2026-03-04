@@ -58,7 +58,7 @@ permalink: /assignment-generator/comment-02
       "layout: home",
       `nav_order: ${navOrder}`,
       `parent: ${classNo}-${targetSerialNo} ${targetName} (과제-02)`,
-      `permalink: /asmt-03/${classNo}-${targetSerialNo}/comment-${classNo}-${writerSerialNo}`,
+      `permalink: /asmt-02/${classNo}-${targetSerialNo}/comment-${classNo}-${writerSerialNo}`,
       "---",
       "",
       "# 과제-02 쟁점과 딜레마 분석에 대한 코멘트",
