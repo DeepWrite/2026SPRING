@@ -6,7 +6,7 @@ parent: 과제 제출 방법
 permalink: /assignments/asmt-03/
 ---
 
-# 과제-03 단문 연습 (6차시)
+# 과제-03 단문 연습 (8차시)
 
 ## 과제 설명
 
