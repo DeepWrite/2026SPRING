@@ -10,7 +10,7 @@ permalink: /assignments/asmt-03/
 
 ## 과제 설명
 
-**3주차 (6차시) 단문 연습: O-R-E-O 오레오 ?!**: [3주차 (6차시) 단문 연습: O-R-E-O 오레오 ?!]({{site.baseurl}}/lectures/week03-06)
+**4주차 (8차시) 단문 연습: O-R-E-O 오레오 ?!**: [4주차 (8차시) 단문 연습: O-R-E-O 오레오 ?!]({{site.baseurl}}/lectures/week04-08)
 
 ## 과제 양식
 

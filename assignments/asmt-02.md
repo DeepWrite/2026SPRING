@@ -12,7 +12,7 @@ permalink: /assignments/asmt-02/
 
 ## 과제 설명
 
-**4주차 (8차시) 쟁점과 딜레마 분석**: [4주차 (8차시) 쟁점과 딜레마 분석]({{site.baseurl}}/lectures/week04-08)
+**3주차 (6차시) 쟁점과 딜레마 분석**: [3주차 (6차시) 쟁점과 딜레마 분석]({{site.baseurl}}/lectures/week04-08)
 
 ## 과제 양식
 

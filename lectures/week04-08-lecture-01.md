@@ -1,15 +1,15 @@
 ---
-title: 보강설명 - 3주차 (6차시) OREO 단문 연습(강의 녹취)
+title: 보강설명 - 4주차 (8차시) OREO 단문 연습(강의 녹취)
 layout: home
 nav_order: 1
-parent: 3주차 (6차시) OREO 단문 연습
-permalink: /lectures/week03-06/lecture-01
+parent: 4주차 (8차시) OREO 단문 연습
+permalink: /lectures/week04-08/lecture-01
 ---
 
 # O-R-E-O 오레오 강좌 실강 내용 정리
 
 * 아래 내용은 대개 기본 강의자료의 반복입니다. 
-* 논제 진술과 이유, 증거의 긴밀한 연결이 잘 드러난, 다음 강좌인 [리차드 도킨스 사례]({{site.baseurl}}/lectures/week03-06/lecture-02)를 잘 음미하기 바랍니다.
+* 논제 진술과 이유, 증거의 긴밀한 연결이 잘 드러난, 다음 강좌인 [리차드 도킨스 사례]({{site.baseurl}}/lectures/week04-08/lecture-02)를 잘 음미하기 바랍니다.
 
 ## 우리 강의는 어디까지 왔나?
 
@@ -64,7 +64,7 @@ permalink: /lectures/week03-06/lecture-01
 - **제시된 증거(예시)가 이유와 연결되는가?**  
 이 세 가지 요소를 철저히 점검해야 합니다.  
 
-[이 사례에 대해 다음 문서에서 더 상세히 설명]({{site.baseurl}}/lectures/week03-06/lecture-02/)하겠습니다.
+[이 사례에 대해 다음 문서에서 더 상세히 설명]({{site.baseurl}}/lectures/week04-08/lecture-02/)하겠습니다.
 
 이번 과제에서는 오레오 글쓰기 형식을 의식적으로 적용해보는 것이 목표입니다. 즉,  
 1. 주장 문장을 명확히 작성하고  

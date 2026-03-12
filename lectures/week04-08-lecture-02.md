@@ -1,9 +1,9 @@
 ---
-title: 보강설명 - 3주차 (6차시) 리차드 도킨스 예시 - 논제 진술과 이유, 증거의 긴밀한 연결
+title: 보강설명 - 4주차 (8차시) 리차드 도킨스 예시 - 논제 진술과 이유, 증거의 긴밀한 연결
 layout: home
 nav_order: 2
-parent: 3주차 (6차시) OREO 단문 연습
-permalink: /lectures/week03-06/lecture-02
+parent: 4주차 (8차시) OREO 단문 연습
+permalink: /lectures/week04-08/lecture-02
 ---
 
 # 리차드 도킨스 예시를 통한, 논제 진술과 이유, 증거의 긴밀한 연결에 대한 이해
