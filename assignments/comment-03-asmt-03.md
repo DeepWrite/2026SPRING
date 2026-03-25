@@ -3,7 +3,7 @@ title: 과제-03에 대한 코멘트
 layout: home
 nav_order: 12
 parent: 과제 제출 방법
-permalink: /assignments/Comment-03-asmt-03/
+permalink: /assignments/3주차 (6차시)3-asmt-03/
 ---
 
 # 과제-03에 대한 코멘트 (5차시)

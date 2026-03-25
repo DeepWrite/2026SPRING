@@ -3,7 +3,7 @@ title: 과제-02에 대한 코멘트
 layout: home
 nav_order: 6
 parent: 과제 제출 방법
-permalink: /assignments/Comment-02-asmt-02/
+permalink: /assignments/comment-02-asmt-02/
 ---
 
 # 과제-02에 대한 코멘트 (5주차 9차시)
