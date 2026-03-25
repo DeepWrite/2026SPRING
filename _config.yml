@@ -10,3 +10,10 @@ aux_links:
 
 mermaid:
   version: "10.9.1"
+
+sass:
+  quiet_deps: true
+  silence_deprecations:
+    - import
+    - global-builtin
+    - color-functions

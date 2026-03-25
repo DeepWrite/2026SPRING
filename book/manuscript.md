@@ -27,48 +27,48 @@
 
 ---
 
-{% include_relative 00-서문.md %}
+{% include book-src/preface.md %}
 
 ---
 
-{% include_relative 01-좋은-논증문은-무엇을-위해-존재하는가.md %}
+{% include book-src/ch01.md %}
 
 ---
 
-{% include_relative 02-논제-명제-그리고-문장의-엄정함.md %}
+{% include book-src/ch02.md %}
 
 ---
 
-{% include_relative 03-요약은-축약이-아니라-논증의-독해다.md %}
+{% include book-src/ch03.md %}
 
 ---
 
-{% include_relative 04-쟁점과-딜레마를-발견하는-법.md %}
+{% include book-src/ch04.md %}
 
 ---
 
-{% include_relative 05-단락은-생각의-방이-아니라-추론의-장치다.md %}
+{% include book-src/ch05.md %}
 
 ---
 
-{% include_relative 06-서론-본론-결론-그리고-나쁜-다섯-단락의-유혹.md %}
+{% include book-src/ch06.md %}
 
 ---
 
-{% include_relative 07-연역-귀납-가설유도-유비.md %}
+{% include book-src/ch07.md %}
 
 ---
 
-{% include_relative 08-반론-예상반론-재반박.md %}
+{% include book-src/ch08.md %}
 
 ---
 
-{% include_relative 09-리서치와-개조식-요약문.md %}
+{% include book-src/ch09.md %}
 
 ---
 
-{% include_relative 10-Lemma에서-Theorem으로.md %}
+{% include book-src/ch10.md %}
 
 ---
 
-{% include_relative 11-워크북과-체크리스트.md %}
+{% include book-src/ch11.md %}

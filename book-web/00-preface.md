@@ -8,4 +8,4 @@ permalink: /book/preface/
 
 {% include_relative _web_notice.md %}
 
-{% include_relative ../book/00-서문.md %}
+{% include book-src/preface.md %}
