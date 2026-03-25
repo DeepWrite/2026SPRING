@@ -18,7 +18,6 @@ has_children: true
 
 - 처음부터 읽으려면 [서문]({{site.baseurl}}/book/preface/)부터 시작하세요.
 - 특정 기술만 찾는다면 왼쪽 메뉴에서 해당 장으로 바로 이동하세요.
-- 출판 편집용 통합 원고는 저장소의 [book/manuscript.md](/Users/jeyounson/2026SPRING/book/manuscript.md)에 있습니다.
 
 ## 장별 구성
 
