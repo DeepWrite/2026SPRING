@@ -1,0 +1,258 @@
+Lemmas, Anti-Theses, and Theorems: Building Your Argument Step by Step
+Learning Goals
+By the end of this chapter, you will be able to:
+Understand Lemmas and Theorems in Writing: Define what lemmas (partial conclusions) and a Theorem (final claim) mean in the context of scholarly writing, and why thinking in these terms can strengthen your argument structure.
+Engage in Critical Dialogue: Recognize how effective academic arguments engage existing ideas (the theses or assumptions of other scholars) in a dialogue of “They say / I say,” using pointed anti-theses (your critical responses) to advance the conversation
+davidlabaree.com
+.
+Build Arguments Cumulatively: Learn to construct an argument through a series of stages, where each stage (Lemma) critically responds to a prior idea and adds a partial conclusion that leads logically to your final conclusion (Theorem).
+Differentiate Approaches Across Disciplines: Understand how this lemma–theorem approach appears in both social sciences and humanities, with examples from landmark works (e.g., Geertz, Kahneman & Tversky, Buchanan & Tullock, Foucault, Said, Butler) demonstrating discipline-specific strategies.
+Apply Strategies in Your Writing: Use practical strategies to incorporate lemmas (anti-theses) into your own essays and research papers. Plan and draft exercises will help you practice identifying others’ theses, formulating your anti-theses, and linking them into a cohesive argumentative structure.
+Concept Explanation: From Thesis and Anti-Thesis to Lemmas and Theorem
+In scholarly writing, argument is often a journey of critical steps. Rather than simply stating a claim and offering evidence, experienced writers build up to their main claim through a series of intermediate insights or lemmas. A lemma, in this context borrowed from mathematics, is like a supporting proposition – a partial conclusion you’ve reached that helps pave the way to your overall conclusion (your Theorem, or final thesis). Crucially, each lemma usually arises by challenging an existing idea. In other words, each lemma often takes the form of an anti-thesis – a direct, pointed disagreement with a prior assumption, prevailing theory, or dominant paradigm in your field. Think of academic writing as entering a conversation
+davidlabaree.com
+. “They say / I say” is the basic template: you begin by presenting what others have argued (the thesis or conventional view you’re addressing), and then you articulate your response (your anti-thesis – how you disagree or want to qualify that view). What’s distinctive in advanced scholarly writing is that this they say / I say exchange doesn’t happen just once in a paper – it is iterative and cumulative. You may go through multiple rounds of it: they say something (one assumption or claim), you counter with an insight (your anti-thesis, yielding a partial conclusion or lemma), then they say something else (another claim or implication), you counter that, and so on – until finally your cumulative arguments support your overarching claim (the Theorem). Each Lemma (partial conclusion) you establish should stem from a critical examination of what someone else has said. This often means identifying a gap, flaw, or oversimplification in existing scholarship, and offering a correction or alternative perspective. By structuring your writing as a sequence of lemmas, you are effectively staging a dialogue in your paper: you let readers see how your ideas emerge in response to earlier work. Importantly, each lemma you develop becomes a building block. As you add each block, you are not simply contradicting for its own sake – you are constructing a ladder of reasoning. The final step on that ladder is your Theorem (final claim), which stands firmly supported because each preceding lemma has already cleared away objections or false assumptions that might undermine your conclusion. To clarify these terms, consider a simple example: Suppose the dominant thesis in a field is “All research on memory assumes memory works like a recording device.” A scholar might introduce an anti-thesis: “But memory doesn’t function exactly like a tape recorder – it reconstructs experiences and is prone to systematic errors.” That anti-thesis, once supported with evidence, becomes a lemma – a partial conclusion that memory is reconstructive. Building on that, the next section might tackle a related thesis (perhaps a specific model derived from the recording analogy) with another anti-thesis (e.g., showing a case where memory deviates from that model), yielding another lemma. Step by step, these partial conclusions prepare the ground for the author’s final Theorem – say, a new theory of memory as a reconstructive process. By the time the author states this final claim, the reader has been brought along through a logical progression: each anti-thesis corrected a prior idea and added a piece of the new understanding, so the final claim feels well-supported and persuasive. In summary, scholarly writing often advances not in a straight line but through a critical back-and-forth: you engage existing theses, push back on them with your anti-theses, derive lemmas from that critique, and use those lemmas to underpin your final argument. This method doesn’t just assert a claim in isolation – it shows the reader how you arrived there by intellectually wrestling with what came before. The result is an argument that is both responsive (to the field’s conversation) and rigorous (logically developed). Next, we will see how this plays out in practice by examining model examples from key fields in the social sciences and humanities.
+Model Examples from Key Fields
+To see the lemma-building approach in action, let’s look at how renowned scholars in different disciplines structure their arguments as a series of critical responses leading to a powerful conclusion. Each example below illustrates how effective academic writers stage a dialogue between an existing thesis and their own anti-thesis, using that tension to develop the argument cumulatively toward a new insight (the “Theorem”).
+In the Social Sciences
+Anthropology (Interpretive Turn – Clifford Geertz): Mid-20th-century anthropology was dominated by approaches seeking general laws of human behavior or viewing culture as a system of objective behaviors. Clifford Geertz offered a bold anti-thesis to that paradigm. In his seminal essay collection The Interpretation of Cultures (1973), Geertz argued that culture is not an experimental variable to be measured like a physical object, but a web of meanings that must be interpreted. He challenged the prevailing thesis that anthropologists should aim for scientific objectivity and law-like generalizations about culture. Instead, Geertz introduced the concept of “thick description,” insisting that understanding culture requires richly describing social practices in context to discern their meaning
+en.wikipedia.org
+. He famously stated that humans are “suspended in webs of significance” they themselves have spun, and “culture” is those webs
+en.wikipedia.org
+. Key passage to insert: Geertz’s definition of culture as those “webs of significance” (placeholder for direct quote and citation). This statement is a Lemma in Geertz’s argument – a partial conclusion that counters the older view of culture as a set of concrete behaviors. Having established this lemma, Geertz builds on it by examining rituals, symbols, and social practices (like his famous analysis of Balinese cockfighting) to show how interpreting these “webs” yields insight. Each chapter of his work takes on a prior assumption (e.g. what religion is, what ideology is) and offers an interpretive anti-thesis. Cumulatively, these lemmas lead to Geertz’s Theorem: that anthropology should be an interpretive science searching for meaning, not an experimental science seeking universal laws
+en.wikipedia.org
+en.wikipedia.org
+. His approach reformed the field by demonstrating the power of staged, critical argument – he first dislodged prior assumptions and then, step by step, constructed a new framework for understanding culture. Economics (Challenging Externality Theory – Ronald Coase): In economics, Ronald Coase’s article “The Problem of Social Cost” (1960) provides a clear example of building an argument via anti-thesis. At the time, the standard thesis (from A.C. Pigou’s welfare economics) was that when businesses create harmful side-effects (pollution, etc.), government intervention (taxes, liability, or regulation) is needed to fix the “externality.” Coase begins by summarizing this prevailing view. He then delivers an anti-thesis: “It is my contention that the suggested courses of action are inappropriate, in that they lead to results which are not necessarily, or even usually, desirable.”. Key passage to insert: Coase’s statement rejecting the standard solutions (placeholder for direct quote from Coase 1960). This bold disagreement is Coase’s first lemma – a partial conclusion that Pigou’s one-sided remedy is flawed. Coase doesn’t stop at saying “Pigou is wrong;” he builds forward. He introduces the idea of the reciprocal nature of harm (illustrating that solving the harm to one party imposes a harm on another), thus reframing the problem. He then uses hypothetical examples (farmers and cattle ranchers) to show that under zero transaction costs, private bargaining can allocate resources efficiently without government intervention. Each section of Coase’s article tackles a piece of the conventional wisdom (for instance, the assumption that polluters must always be restrained) and counters it with a new insight (e.g., sometimes it’s equally valid to let the pollutee bear the cost, if that maximizes total benefit). These insights accumulate into what later became known as the Coase Theorem: the idea that if transaction costs are zero, parties can negotiate solutions to externalities on their own, and the initial assignment of legal liability won’t affect the efficiency of the outcome. Coase’s final claim – revolutionary for economics – is firmly supported because each lemma along the way has undercut a prior assumption and replaced it with a more nuanced view. The result is an argument that turned the field of law and economics on its head by staging a stepwise critique of what “they” (Pigovian economists) had assumed, and in its place, offering a new paradigm. Political Science/Economics (Public Choice Theory – Buchanan & Tullock): In 1962, James Buchanan and Gordon Tullock’s The Calculus of Consent challenged a major thesis in political science – the optimistic belief in the benevolence and effectiveness of government (“politics as a romance”). The dominant thesis of the post-war era held that expanding government programs and majority-rule democracy would naturally serve the public good. Buchanan and Tullock’s approach was to introduce an economic way of thinking into this arena, formulating an anti-thesis to the idealized view of government. They argued that political actors are self-interested individuals, not omniscient benevolent guardians
+philanthropydaily.com
+. Politicians seek re-election; bureaucrats seek to expand their agencies; voters seek policies beneficial to themselves. This was a direct rebuttal to the thesis that government decision-makers always act for the common welfare. One early lemma in Calculus of Consent is the recognition that collective choices have costs and that treating “the government” as a single rational entity (as earlier theorists did) is misguided. Instead, Buchanan and Tullock insist the analysis must start with individual members of the collective, each with their own preferences
+independent.org
+. Key passage to insert: A line from Calculus of Consent where the authors note that viewing “the people” as having one will is flawed, and one must account for individual incentives (placeholder for quote). With this partial conclusion, they build further lemmas: for example, demonstrating how majority voting can lead to outcomes that are inefficient or unfair, or how logrolling and “politics without romance” better explain government behavior than idealized theories
+philanthropydaily.com
+. Each chapter addresses a piece of conventional wisdom (e.g., that simple majority voting is always best, or that government interventions have no downsides) and counters it with a more critical finding (e.g., majority rule can create tyranny of the majority, or government interventions are driven by officials’ incentives). These incremental insights lead to their Theorem: a new framework (public choice theory) that “challenged the consensus” that only big government could solve social problems
+philanthropydaily.com
+. The final message – that we must design constitutional rules carefully because government actors are self-interested – is persuasive precisely because Buchanan and Tullock walked the reader through the demise of the old assumptions and the rise of a new, more realistic model at each step. Psychology & Behavioral Economics (Heuristics and Biases – Kahneman & Tversky): The collaborative work of psychologist Daniel Kahneman and Amos Tversky offers a textbook case of an argument built through sequential anti-theses in the social sciences. In the 1970s, the thesis in economics and decision theory was that human beings are rational actors who make decisions by maximizing expected utility (following a formal model by von Neumann & Morgenstern). Kahneman and Tversky suspected that real human behavior often deviated from this ideal. In their 1979 paper introducing Prospect Theory, they explicitly frame their study as a critique of expected utility theory and a proposal of an alternative
+web.mit.edu
+. The paper’s introduction essentially says “they say” expected utility is the normative and descriptive model of choice, but observations show systematic violations of that model
+web.mit.edu
+. Each experiment they report acts as an anti-thesis to a specific aspect of classical theory. For example, one lemma comes from the certainty effect: they demonstrate that people’s choices violate the expected utility axiom by overweighting certain outcomes over probable ones – a direct challenge to the thesis that people rationally compute expected values
+web.mit.edu
+. Another lemma is the isolation effect, showing that people eliminate components shared by options and thus make inconsistent choices based on framing
+web.mit.edu
+. With each of these findings, Kahneman and Tversky are effectively saying, “Contrary to what the standard theory predicts (thesis), actual decisions follow a different pattern (anti-thesis).” Key passage to insert: An excerpt from Kahneman & Tversky (1979) describing how choices “systematically violate the axioms of expected utility theory” (placeholder for direct quote)
+web.mit.edu
+. As these anti-theses accumulate, they build to Prospect Theory’s Theorem: a new model of decision-making under risk, which accounts for phenomena like loss aversion and differing risk attitudes for gains vs. losses
+en.wikipedia.org
+en.wikipedia.org
+. By the conclusion of their argument, the once-dominant thesis of human homo economicus rationality is thoroughly interrogated and revised. Readers find the new theory convincing because the authors didn’t just assert it – they proved it in steps, each step addressing and overturning an element of the old paradigm. This pattern – identify a prevailing assumption, knock it down with evidence, extract a partial conclusion, then move to the next – is what gives the paper its enduring impact and clarity.
+In the Humanities
+History / Philosophy (Power and Punishment – Michel Foucault): Humanities scholars also use the lemma-to-theorem approach, often to challenge entrenched narratives about culture, history, or texts. Michel Foucault’s Discipline and Punish: The Birth of the Prison (1975) is a prime example. The standard thesis that Foucault engages is a Whiggish narrative of progress: the belief that modern penal systems (prisons) replaced earlier brutal public torture because of humanitarian reform and enlightenment ideals. Foucault begins by invoking this common belief only to subvert it with an anti-thesis: he argues that the shift to prisons was not merely due to compassion or improved justice, but because of a new system of power and social control
+en.wikipedia.org
+. In other words, they said the modern prison is more humane; he says it’s actually part of a more insidious form of discipline. One early lemma in his argument is drawn from historical analysis: for instance, Foucault illustrates how seemingly kinder, hidden punishments actually allowed power to operate more continuously on individuals (through surveillance, regulation of time, etc.). Key passage to insert: A key line from Foucault (1975) where he notes that prisons became primary punishments not due to humanism but due to “technological powers” of discipline (placeholder for quote)
+en.wikipedia.org
+. Each part of Discipline and Punish takes on a facet of the thesis of “progress”: Foucault examines torture, punishment, discipline, and prison (the four parts of the book) and in each case presents evidence that undercuts the accepted story. For example, he shows that schedules and timetables in schools and factories (disciplines) emerged at the same time as prisons – indicating a broader social shift toward controlling bodies, not just a concern for justice. These serve as lemmas – partial conclusions like “disciplinary power produces ‘docile bodies’” – each of which contradicts the notion that modern institutions are simply benevolent
+plato.stanford.edu
+en.wikipedia.org
+. Layer by layer, Foucault’s anti-theses coalesce into his Theorem: modern society is a “disciplinary” society, where power is exercised through subtle, pervasive surveillance and normalization rather than overt cruelty. By the end, the reader’s understanding is turned upside down: the prison is not a humane reform at its core, but a continuation of power by new means. Foucault’s genius in argumentation lies in how he stages this reversal. He leads the reader through historical case studies and conceptual analysis, each time saying, in effect, “The reality is not what it appears – here’s a deeper explanation.” The final claim is bold, but it stands supported by the many lemmas that Foucault has methodically established by critically reinterpreting history. Literary Criticism / Postcolonial Studies (Challenging Orientalist Scholarship – Edward Said): Edward Said’s Orientalism (1978) is a landmark humanities text that illustrates argument as a sequence of confrontations with prevailing ideas. The book addresses an academic field – Oriental studies (the study of Middle Eastern and Asian cultures by Western scholars). The prevailing thesis in that field, often implicit, was that Western scholarship about “the Orient” was producing objective knowledge about foreign cultures, rooted in disinterested curiosity. Said’s anti-thesis is that Orientalist scholarship was in fact saturated with imperial ideology and served colonial interests. He argues that what seemed like neutral research was actually constructing a stereotype of “The Orient” as the exotic, inferior opposite of the West, thus bolstering Western domination. Early in the book, Said lays out this counter-argument clearly, effectively saying: Western depictions of the East are not pure truth-seeking – they are intertwined with the power of imperialist societies
+en.wikipedia.org
+. This declaration is a foundational lemma: it reframes all Orientalist literature as a discourse of power rather than objective truth. Key passage to insert: A sentence from Said (1978) asserting that Orientalism is “inextricably tied to the imperialist societies that produced it” (placeholder for direct quote)
+en.wikipedia.org
+. Having established this, Said proceeds through a series of chapters, each examining a different era or aspect of Orientalist writing (from Napoleon’s scholars in Egypt, to 19th-century philologists, to modern-area experts). In each case, he identifies a thesis those scholars held (e.g., “Orientals are passive, weak, in need of Western guidance”) and provides an anti-thesis through critique – showing internal contradictions, political motivations, or racist underpinnings in those works. Each of these analyses yields a lemma reinforcing his overall argument: for example, one lemma is that even the literature and art of the West depicted Eastern societies in a way that justified colonial attitudes. Another lemma might be that prominent scholars like Ernest Renan or Silvestre de Sacy, who claimed scholarly objectivity, were actually embedding colonial stereotypes in their studies. These cumulative findings lead to Said’s Theorem: “Orientalism” itself – the entire Western discourse about the East – is a constructed, biased system of knowledge that has perpetuated misrepresentation and served Western power. By the end of the book, readers have not just been told this claim; they have seen it demonstrated point by point, thesis by thesis, across history. Said’s work thus fundamentally changed how scholars in the humanities (and social sciences) approach cross-cultural studies: after Orientalism, one must always ask, “Whose perspective is this knowledge coming from, and what power dynamics might be involved?” The persuasive force of Said’s critique lies in its structure – each chapter is an anti-thesis to a piece of conventional wisdom, and together they force a paradigm shift in the reader’s understanding of scholarly “truth.” Philosophy / Gender Studies (Gender Performativity – Judith Butler): Judith Butler’s Gender Trouble (1990) is a dense theoretical work, but at its heart it follows our pattern: a series of challenges to prevailing theses about gender, building toward a transformative conclusion. The context here is feminist theory and philosophy of gender. The common thesis Butler engages was held by many feminists of the time: that there is a stable category of “women” (and “men”), based in a fixed identity (often tied to biological sex), which feminist politics can represent and fight for. Butler begins the book by attacking this central assumption
+en.wikibooks.org
+. She argues as an anti-thesis that the category “women” is not a simple, unified identity that exists prior to culture – rather, it’s an effect of social discourse and power relations. In other words, they (even well-meaning feminist predecessors) said “women as a group have a shared identity and essence”; she says this notion of an essential identity is a fiction that actually constrains and erases differences among women
+en.wikibooks.org
+. This is the first major lemma: that identity categories like “woman” are fraught and constructed. From there, Butler unpacks more assumptions. Another thesis she tackles is the classic distinction between sex and gender – the idea that sex is biological and fixed, while gender is a cultural expression built on top of sex. Butler’s anti-thesis is that even this distinction is false: what we consider “sex” (biology) is itself already framed by language and culture, so there’s no pure presocial sex that grounds gender
+en.wikibooks.org
+. She provides arguments that both sex and gender are constructed—a powerful lemma that upends the foundation of a lot of earlier gender theory. Key passage to insert: Butler’s statement that “sexed bodies cannot signify without gender, and the apparent existence of sex prior to discourse... is merely an effect of… gender” (placeholder for quote)
+en.wikibooks.org
+. Having dismantled the idea of a pre-existing identity and the sex/gender split, Butler then introduces her famous positive theory as a series of lemmas: the concept of gender performativity. She contends that what we think of as a stable gender identity (being a “woman” or “man”) is actually produced by repeated performative acts – behaviors, speech, stylizations that over time create the illusion of an inner gender core
+en.wikibooks.org
+. Each aspect of this claim is supported by examining philosophical texts, psychoanalytic theories, and cultural examples, always following the pattern of find the thesis, apply an anti-thesis. For instance, she looks at Simone de Beauvoir’s assertion “One is not born, but rather becomes, a woman,” and Luce Irigaray’s idea of women as the “Other” of men. Butler appreciates their insights but also pushes back (anti-thesis) where they still presume a stable female identity behind gender expressions
+en.wikibooks.org
+. These critiques yield further partial conclusions – e.g., that even feminist philosophers unwittingly reinstated a notion of an “original” gendered self. Finally, all these strands coalesce into Butler’s Theorem: Gender is performative. In simple terms, gender exists only in action and repetition, not as a fixed truth of one’s being. This conclusion was radical, and it has had enormous influence in gender studies, queer theory, and beyond. Why did it persuade many readers? Because Butler showed her work: by the time she asserts that “there is no solid, universal gender – only the doing of gender,” the reader has been through a rigorous series of arguments undoing each assumption that would contradict that statement
+en.wikibooks.org
+. Each chapter’s anti-thesis (about identity, about sex vs. gender, about how culture produces subjects) builds the case. The dialogue staged in the text – with voices of earlier feminists, philosophers, psychologists as the “they say,” and Butler’s voice replying “I say differently” – enacts exactly the scholarly conversation that strong academic writing is made of. These examples from both social sciences and humanities, while drawn from very different subjects, all showcase the power of structuring an argument through sequential lemmas. Whether it’s empirical research or critical theory, the pattern is the same: engage, disagree, and take the reader step by step to a new insight. In each case, by the time the author states their final claim (the “Theorem”), the intellectual groundwork has been laid through careful argumentative moves. In the next section, we will distill some of the strategies you can use to achieve this kind of effective structure in your own writing.
+Writing Strategies: Staging Your Argument with Lemmas
+How can you, as an undergraduate student, apply these principles to your own argumentative essays or research papers? Here are several strategies and guidelines for constructing your argument as a progression of critical responses (lemmas) leading to your main claim (theorem). While the fundamental approach applies across disciplines, we will also note where social science and humanities writing might diverge in emphasis or style.
+1. Start with “They Say”: Identify the Existing Theses
+Effective arguments begin by situating your topic in the ongoing conversation
+davidlabaree.com
+. This means your first step is to identify what thesis or assumption you are responding to. Ask yourself: What do the leading scholars or prevailing opinions say about this issue? It could be a theory, a widely accepted interpretation, a common practice, or an official policy – anything that represents the current state of thinking (the “They Say”). In your introduction or early paragraphs, summarize that thesis clearly and fairly. For example, “Most historians have assumed X,” or “Conventional wisdom in psychology suggests Y.” By articulating the established view, you not only show your reader that you’re well informed, but you also set up a target for your critical response. Tip: Don’t set up a straw man (an exaggerated or false version of others’ arguments). Represent others’ ideas accurately and in a neutral tone. Use signal phrases to distinguish their views from yours (e.g., “According to [Scholar], …” or “It has long been assumed that …”). This creates a solid launch pad for your anti-thesis. If you’re writing in the social sciences, this step often takes the form of a literature review or background section where you cite past studies or theories. In humanities, it might appear as a discussion of dominant interpretations or a theoretical backdrop. In both cases, orient the reader: make it clear why you are bringing up these other views – namely, because you have something to say about them
+davidlabaree.com
+.
+2. Formulate Your “I Say”: Craft an Anti-Thesis for Each Key Point
+Once you’ve identified a thesis to engage with, formulate your response – the anti-thesis. This is the core of each lemma. An effective anti-thesis directly addresses something in the thesis that you find incomplete, problematic, or worth questioning. It often begins with a contrast word or phrase: however, but, conversely, on the other hand, despite this, etc. For instance: “However, this traditional view overlooks…,” or “On the other hand, new evidence suggests…”. By clearly stating the contrast, you signal to the reader that you are entering critical dialogue. When crafting an anti-thesis, be specific and pointed. It’s not enough to vaguely disagree; pinpoint the assumption or aspect of the thesis you are challenging. Are you arguing that the thesis is outright wrong? Or that it’s true only under certain conditions? Or that it’s missing an important piece? For example, if “they say” that economic growth always improves society, your anti-thesis might be, “but economic growth can produce social inequalities that undercut those improvements.” If “they say” Shakespeare’s Hamlet has been understood as a tale of indecision, your anti-thesis could be “yet Hamlet’s hesitation can be seen as a rational response to moral ambiguity, not mere indecisiveness.” Notice how these anti-thesis statements don’t just negate the thesis; they add nuance or a new angle. This ensures that each lemma you create is a meaningful contribution, not just contradiction for its own sake. Strategy across disciplines: In social sciences, your anti-thesis may often take the shape of a hypothesis or a research question that opposes an existing theory. For example, “Contrary to the dominant theory (Thesis), I hypothesize X (Anti-thesis) because preliminary data shows…”. In humanities, your anti-thesis might introduce a new interpretation or critical lens: “Where others see Theme A in this novel, I argue we should actually see Theme B, given …”. In both cases, you are setting up a partial conclusion that you will soon support with evidence – essentially promising the reader that you will show them something the previous thesis didn’t.
+3. Support Each Lemma with Evidence and Reasoning
+An anti-thesis by itself is just an assertion; to make it a convincing lemma, you must back it up with evidence, examples, or logical reasoning. This is where your academic skills in research and analysis come in. After you state “I say [anti-thesis],” spend a paragraph or more demonstrating why your point holds merit. This could involve analyzing data (for a social science argument), interpreting a passage or example (for humanities), or citing other scholars who hint at your view. When providing support, be sure to connect it directly to the anti-thesis. It can be useful to use sentences that explicitly link evidence to your claim: “This survey result illustrates that the assumed effect is not present, supporting the idea that [your anti-thesis].” Or, in an essay: “This scene in the novel reveals an ambiguity in the hero’s actions, reinforcing the interpretation that [your anti-thesis].” Each supported anti-thesis now becomes a credible lemma – a partial conclusion the reader can agree with. Signposting partial conclusions: It often helps to state the partial conclusion explicitly once you’ve argued it. For example: “Therefore, unlike the conventional belief that memory is like a recording device, we can conclude that memory is reconstructive (Lemma 1).” Using clear transitional language like “therefore,” “thus,” “from this we see…” can emphasize that you have arrived at a mini-conclusion that will be important later. In longer papers (like a thesis or a long research article), you might even number these or give them headings, but in an essay it’s usually sufficient to phrase it clearly in the text. Anticipate counter-arguments: As you present each lemma, consider if a skeptical reader might have an objection. If so, you can briefly acknowledge and rebut counter-arguments – this technique is often called “planting a naysayer.” For example, “One might argue that the old model could explain this result under different conditions; however, those conditions are not present here, so the old model still falls short.” By doing this, you not only show thoroughness but also further solidify the lemma. Use this sparingly – you don’t want to get sidetracked – but addressing the most obvious rebuttals can strengthen your anti-thesis. It shows you’re aware of alternatives but still confidently standing by your conclusion
+davidlabaree.com
+davidlabaree.com
+.
+4. Connect the Parts: Build a Logical Progression
+Now, having one strong lemma is good, but the goal is to have multiple lemmas that together support your final claim. This requires careful attention to structure and transitions. Each time you finish a lemma, ask: how does this partial conclusion set up the next section of my argument? The sequence should not feel like unrelated points, but rather like a chain – each link connected. As one writing guide puts it, “One thing leads to another, one paragraph to the next… remind the reader how this argument builds on what precedes it.”
+davidlabaree.com
+ This means you should use transitional cues when moving from one point to the next. For example:
+Linking forward: “Having established that memory is reconstructive rather than record-perfect, the next question becomes: what factors influence how memories are reconstructed? (This sets up the next thesis to examine and your next anti-thesis.)”
+Referring back: “Because we saw in Section 1 that policymakers follow incentives (not just the public interest), we can now understand why certain welfare programs failed – which is the focus of the next section.”
+Such transitions guide the reader and emphasize the logical flow. They ensure the reader isn’t left wondering, “Why are we talking about this now?” at each new point
+davidlabaree.com
+. Especially in an argumentative essay, it’s your job to make the structure transparent enough without overdoing it. Think of it as leaving signposts: small reminders of how each new section depends on the insights gained earlier. One effective structural tool is to preview the steps early on. In your introduction, after stating your main argument, you might add a sentence like: “This argument will be developed in three parts: first, I challenge the assumption of X by doing Y; next, I examine Z to show that…, and finally, I synthesize these insights to argue [Your Theorem].” This kind of roadmap prepares the reader for the lemmas to come and highlights the critical, stepwise nature of your approach. Discipline differences: In social science writing, you might label parts of the argument as Research Question 1, 2, etc., or Hypothesis A, B, etc., which correspond to different lemmas. In humanities essays, you might structure it thematically or by textual chronology, but you can still make the argumentative role of each section clear (e.g., “Earlier critics view Act I of the play as establishing X; I show instead it establishes Y, which will matter when we get to Act III…”). No matter the field, clarity in how points connect will greatly enhance the persuasive power of your cumulative argument.
+5. The Final Theorem: Synthesize Your Lemmas into the Main Claim
+After progressing through your series of critical points, you reach the moment to present your overall claim – your Theorem. In a traditional essay, this might be your thesis statement which you articulated in the introduction in a general way. But by the conclusion of the paper, you can state it with much more force and specificity, because now the reader has seen the evidence and reasoning behind it. This final claim should not come as a surprise; ideally, the reader should feel that it naturally follows from all the lemmas you’ve established. When writing your conclusion or the culminating section, explicitly draw together the threads of your argument. Refer back to the partial conclusions you’ve made: “Given that we found A, and we demonstrated B, we can now conclude that C.” This not only reinforces the logical structure one more time, but it also gives the reader a satisfying sense of payoff – the earlier critical work was leading somewhere all along. For instance: “By challenging the assumptions of prior studies (that work-life balance has identical effects across genders) and by establishing through data that there are significant gender differences (Lemma 1) as well as cultural context effects (Lemma 2), we conclude that any general theory of work-life balance must incorporate gender and culture as key variables (Theorem).” Notice how the final theorem here explicitly incorporates the content of the lemmas. In many cases, the final claim might have been hinted at in your introduction (as your thesis statement), but after walking through the argument, you can often refine it. Perhaps your research revealed nuances, or your thinking evolved as you wrote. It’s perfectly fine – even encouraged – to revise your main claim after developing the argument, to accurately reflect the sum of your insights. Just be sure that if you do so, you adjust your introduction to match (so you aren’t promising one thing and concluding another). Keep perspective: Remember that in academic writing, you rarely get the “final word” on a topic
+davidlabaree.com
+. Declaring your Theorem doesn’t mean the conversation is over – it means you’ve made your contribution. A strong conclusion sometimes even points to remaining questions or implications (e.g., “Our findings suggest X, though further research might explore Y”). This shows awareness that knowledge is provisional. Nonetheless, within the scope of your paper, you have built a logically tight case: each piece of evidence and critical analysis was in service of demonstrating your final stance. That is a deeply satisfying outcome for both writer and reader.
+6. Tone and Style: Keep It Accessible but Rigorous
+As you implement the above strategies, maintain a tone that is confident but not arrogant, and scholarly but not convoluted. Since you are engaging others’ ideas, be respectful and objective in critique. Phrases like “however,” “this argument fails to consider…,” or “a key assumption remains untested…” are polite ways to introduce disagreement, as opposed to more combative or dismissive language. Use metacommentary (commenting on your argument within your essay) to clarify moves when needed: e.g., “Having established X, I now turn to Y” is a perfectly fine sentence to use – it may feel obvious, but it helps guide the reader. Just avoid overdoing it (don’t start every paragraph with “Now I will…”). Striking a balance is key. For undergraduates, it’s also important to preserve your own voice. While you’re following a structured approach, the content and insight are yours. You might be writing an economics paper with lemmas like mini-theorems, or a literature paper with interpretive moves – either way, make sure your passion for the topic and your unique perspective come through. As one advice puts it, remember why the issue matters to you and let that inform your writing voice
+davidlabaree.com
+. This will keep your argument lively and avoid it reading like a dry list of points. Lastly, revise for coherence. After drafting, go back and check: Do the anti-thesis statements indeed link to the theses stated? Is each lemma clearly supported? Is the order of lemmas optimal, or would the argument make more sense if two sections were swapped? Sometimes our understanding of the logical order deepens after writing a full draft. Don’t hesitate to reorder paragraphs or sections to ensure that the unfolding of the argument is as clear as possible. Each lemma should feel like a natural next step from the previous. By following these strategies, you will be practicing the art of scholarly conversation and logical development. You’ll move beyond the five-paragraph essay or simple pro/con argument, and into a more sophisticated territory where your essay itself participates in knowledge-making: it identifies something others have overlooked and contributes something new, one well-argued step at a time.
+Practice Exercises
+To reinforce the concepts from this chapter, work through the following exercises. They are designed to help you identify thesis/anti-thesis structures in existing writing and to apply the lemma-building approach in your own writing. Each exercise has a social science variant and a humanities variant – feel free to try both, or focus on the one more relevant to your field.
+Analyzing the Dialogue of “They Say / I Say”: Find a short scholarly article or an excerpt (2–3 paragraphs) in your discipline that presents an argument. (Your instructor may provide a sample text, or you can choose one from course readings.) Identify the author’s use of others’ ideas and their own responses. Underline any sentences where the author summarizes or refers to another scholar’s claim (the “they say”). Then highlight where the author signals their disagreement or different view (the “I say” or anti-thesis). In the margin, jot down what you think the partial conclusion (lemma) of each such move is. For example, “Author A says ______, but Author B points out ______, therefore [partial conclusion].” Bring your annotated excerpt to class for discussion. How effectively does the author build their argument through these moves? Could you easily spot the final claim? This exercise will sharpen your ability to read for argumentative structure and see the lemmas in others’ writing.
+Crafting Anti-Thesis Statements: Below are some broad claims (theses) in different fields. For each one, write a 2–3 sentence anti-thesis response that could serve as the kernel of a lemma in an argumentative essay. Be sure to actually disagree or complicate the claim in a meaningful way, and hint at evidence or reasoning you would use.
+a. Psychology (Social Science): “Human behavior is solely a product of individual choice; social environment has minimal influence.” – Your anti-thesis: … (Challenge this by introducing the influence of social context or unconscious biases, for instance. What evidence might back you up?)
+b. Literary Studies (Humanities): “The meaning of a novel is determined entirely by what the author intended to convey.” – Your anti-thesis: … (Perhaps argue that readers play a role in creating meaning, or that texts can transcend authors’ intentions. Indicate how you would support this interpretatively.)
+c. (Optional – for further practice) Economics: “Free markets always lead to the most efficient outcomes without exception.” – Your anti-thesis: … (Maybe point out market failures or equity issues that “efficiency” doesn’t account for, referencing an example or study.)
+After writing your responses, share them with a partner or tutor. Check: Does each anti-thesis specifically target an assumption or oversimplification in the original statement? Would these statements make you interested in seeing the evidence? Discuss what kind of evidence would be needed to turn each anti-thesis into a convincing lemma.
+Outline Your Lemmas: Think of a research question or essay prompt you need to address for an upcoming assignment. Draft a simple outline that uses the lemma-to-theorem structure. Do the following:
+Write down your tentative Theorem – the main claim or answer you’re aiming to argue (if you’re still unsure, write a few possibilities; this can be refined later).
+Brainstorm at least two key assumptions, arguments, or sections of the existing conversation on this topic that you will need to engage with. These will be the “theses” to which you respond. For each one, jot a note about what “they say.”
+Next to each of those, formulate your planned response – your anti-thesis. Phrase it as a claim (it might start with “however” or “in contrast”). This is the main idea of that section of your paper.
+Under each anti-thesis, list bullet points of evidence or reasoning you will use. (E.g., cite a specific study, analyze a particular example, or use logical argument.)
+Finally, consider the logical order: In what sequence should you present these lemmas? Does one need to come first to make the next one clear? Number your lemmas in the order you plan to write them, and note a quick transition idea for moving from one to the next.
+Once your outline is prepared, review it: Do all the anti-theses support the final claim? If one seems unrelated, you might need to tweak your final claim or the choice of lemmas. Share your outline with a classmate or instructor for feedback. Explain to them in a few sentences how each part of your argument interacts (e.g., “First I need to show X (because others assume not X), then I move to Y which builds on X,” etc.). Their questions will help you see if the connections are clear. This exercise will help transform abstract advice into concrete planning for your own writing.
+By practicing these steps – identifying others’ theses, generating your anti-theses, supporting them, and organizing the flow – you will gain confidence in constructing complex arguments. Over time, this approach will become a habit, and you’ll find that your writing naturally becomes more dialogic (engaging with sources) and more logically compelling. Remember, the goal of argumentative writing in academia is not just to assert your ideas, but to situate them in relation to what’s already known and then advance the conversation. Thinking in terms of lemmas and a final theorem is one powerful way to achieve that. With practice, you’ll be able to lead your readers, step by step, to see things in a new light – which is one of the most rewarding aspects of academic work.
+인용
+
+Academic Writing — Framing an Argument as They Say, I Say – David Labaree on Schooling, History, and Writing
+
+https://davidlabaree.com/2022/02/10/academic-writing-framing-an-argument-as-they-say-i-say/
+
+The Interpretation of Cultures - Wikipedia
+
+https://en.wikipedia.org/wiki/The_Interpretation_of_Cultures
+
+The Interpretation of Cultures - Wikipedia
+
+https://en.wikipedia.org/wiki/The_Interpretation_of_Cultures
+
+The Interpretation of Cultures - Wikipedia
+
+https://en.wikipedia.org/wiki/The_Interpretation_of_Cultures
+
+The Interpretation of Cultures - Wikipedia
+
+https://en.wikipedia.org/wiki/The_Interpretation_of_Cultures
+TheProblemofSocialCost.md
+
+file://file-E1sG3LJRsdvMmDP6rvRoU7
+TheProblemofSocialCost.md
+
+file://file-E1sG3LJRsdvMmDP6rvRoU7
+TheProblemofSocialCost.md
+
+file://file-E1sG3LJRsdvMmDP6rvRoU7
+
+James M. Buchanan and why government can’t do it allPhilanthropy Daily
+
+https://philanthropydaily.com/james-m-buchanan-and-why-government-cant-do-it-all/
+
+The Naked Emperor: Politics without Romance in The Calculus of Consent
+
+https://www.independent.org/wp-content/uploads/tir/2020/03/tir_24_4_11_shughart.pdf
+
+James M. Buchanan and why government can’t do it allPhilanthropy Daily
+
+https://philanthropydaily.com/james-m-buchanan-and-why-government-cant-do-it-all/
+
+Prospect Theory: An Analysis of Decision under Risk
+
+https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Behavioral_Decision_Theory/Kahneman_Tversky_1979_Prospect_theory.pdf
+
+Prospect Theory: An Analysis of Decision under Risk
+
+https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Behavioral_Decision_Theory/Kahneman_Tversky_1979_Prospect_theory.pdf
+
+Prospect Theory: An Analysis of Decision under Risk
+
+https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Behavioral_Decision_Theory/Kahneman_Tversky_1979_Prospect_theory.pdf
+
+Prospect Theory: An Analysis of Decision under Risk
+
+https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Behavioral_Decision_Theory/Kahneman_Tversky_1979_Prospect_theory.pdf
+
+Prospect Theory: An Analysis of Decision under Risk
+
+https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Behavioral_Decision_Theory/Kahneman_Tversky_1979_Prospect_theory.pdf
+
+Prospect theory - Wikipedia
+
+https://en.wikipedia.org/wiki/Prospect_theory
+
+Prospect theory - Wikipedia
+
+https://en.wikipedia.org/wiki/Prospect_theory
+
+Discipline and Punish - Wikipedia
+
+https://en.wikipedia.org/wiki/Discipline_and_Punish
+Michel Foucault - Stanford Encyclopedia of Philosophy
+
+https://plato.stanford.edu/entries/foucault/
+
+Orientalism (book) - Wikipedia
+
+https://en.wikipedia.org/wiki/Orientalism_(book)
+
+Feminism/Literature/Gender Trouble - Wikibooks, open books for an open world
+
+https://en.wikibooks.org/wiki/Feminism/Literature/Gender_Trouble
+
+Feminism/Literature/Gender Trouble - Wikibooks, open books for an open world
+
+https://en.wikibooks.org/wiki/Feminism/Literature/Gender_Trouble
+
+Feminism/Literature/Gender Trouble - Wikibooks, open books for an open world
+
+https://en.wikibooks.org/wiki/Feminism/Literature/Gender_Trouble
+
+Feminism/Literature/Gender Trouble - Wikibooks, open books for an open world
+
+https://en.wikibooks.org/wiki/Feminism/Literature/Gender_Trouble
+
+Feminism/Literature/Gender Trouble - Wikibooks, open books for an open world
+
+https://en.wikibooks.org/wiki/Feminism/Literature/Gender_Trouble
+
+Feminism/Literature/Gender Trouble - Wikibooks, open books for an open world
+
+https://en.wikibooks.org/wiki/Feminism/Literature/Gender_Trouble
+
+Academic Writing — Framing an Argument as They Say, I Say – David Labaree on Schooling, History, and Writing
+
+https://davidlabaree.com/2022/02/10/academic-writing-framing-an-argument-as-they-say-i-say/
+
+Academic Writing — Framing an Argument as They Say, I Say – David Labaree on Schooling, History, and Writing
+
+https://davidlabaree.com/2022/02/10/academic-writing-framing-an-argument-as-they-say-i-say/
+
+Academic Writing — Framing an Argument as They Say, I Say – David Labaree on Schooling, History, and Writing
+
+https://davidlabaree.com/2022/02/10/academic-writing-framing-an-argument-as-they-say-i-say/
+
+Academic Writing — Framing an Argument as They Say, I Say – David Labaree on Schooling, History, and Writing
+
+https://davidlabaree.com/2022/02/10/academic-writing-framing-an-argument-as-they-say-i-say/
+
+Academic Writing — Framing an Argument as They Say, I Say – David Labaree on Schooling, History, and Writing
+
+https://davidlabaree.com/2022/02/10/academic-writing-framing-an-argument-as-they-say-i-say/
+
+Academic Writing — Framing an Argument as They Say, I Say – David Labaree on Schooling, History, and Writing
+
+https://davidlabaree.com/2022/02/10/academic-writing-framing-an-argument-as-they-say-i-say/
+
+Academic Writing — Framing an Argument as They Say, I Say – David Labaree on Schooling, History, and Writing
+
+https://davidlabaree.com/2022/02/10/academic-writing-framing-an-argument-as-they-say-i-say/
+
+Academic Writing — Framing an Argument as They Say, I Say – David Labaree on Schooling, History, and Writing
+
+https://davidlabaree.com/2022/02/10/academic-writing-framing-an-argument-as-they-say-i-say/
