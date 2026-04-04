@@ -36,7 +36,9 @@ has_children: true
 10. [반론은 상대편 소개가 아니라 내 논증의 약점을 겨눈다]({{site.baseurl}}/book/ch09/)
 11. [리서치와 개조식 요약문]({{site.baseurl}}/book/ch10/)
 12. [Lemma에서 Theorem으로]({{site.baseurl}}/book/ch11/)
-13. [워크북과 진단표]({{site.baseurl}}/book/ch12/)
+13. [종합 진단과 워크숍의 철학]({{site.baseurl}}/book/ch12/)
+14. [에필로그. 누가 좋은 논증을 인정할 것인가]({{site.baseurl}}/book/epilogue/)
+15. [권말 부록. 실전 시트]({{site.baseurl}}/book/appendix/)
 
 ## 활용 제안
 
