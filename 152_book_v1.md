@@ -4,6 +4,7 @@ layout: home
 nav_order: 152
 permalink: /book-v1/
 has_children: true
+nav_exclude: true
 ---
 
 # 논증의 정원
