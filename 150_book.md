@@ -1,16 +1,18 @@
 ---
-title: 논증의 정원
+title: 문장의 얼개
 layout: home
 nav_order: 150
 permalink: /book/
 has_children: true
 ---
 
-# 논증의 정원
-{: .fs-8 }
-
-학부생을 위한 논증적 글쓰기 단행본 웹 공개용 버전입니다.
-강의자료, 사례, 워크북 요소를 바탕으로 재구성한 장별 원고를 웹에서 바로 읽을 수 있도록 정리했습니다.  
+<div style="margin: -1rem 0 2rem 0; border-radius: 12px; overflow: hidden; background-image: linear-gradient(rgba(248,245,240,0.78), rgba(248,245,240,0.92)), url('{{ site.baseurl }}/assets/images/book-v3-cover-online-banner.png'); background-size: cover; background-position: center; padding: 4.5rem 3rem 4rem 3rem;">
+  <div style="max-width: 42rem;">
+    <div class="fs-8" style="font-weight: 700; letter-spacing: -0.02em; color: #2e3134; margin-bottom: 0.5rem;">문장의 얼개</div>
+    <div class="fs-5 fw-300" style="color: #4f5459; margin-bottom: 1rem;">논증적 글쓰기와 더 나은 판단을 위한 공부</div>
+    <p style="max-width: 36rem; color: #4a4d50; line-height: 1.75; margin: 0;">학생의 실패에서 출발해 문장 아래 숨어 있는 구조를 다시 세우는 논증적 글쓰기 단행본의 웹 공개판입니다. 강의자료, 사례, 워크북 요소를 바탕으로 정리한 최종 원고를 홈페이지에서 바로 읽을 수 있도록 엮었습니다.</p>
+  </div>
+</div>
 
 {% include_relative book-web/_web_notice.md %}
 
@@ -18,23 +20,34 @@ has_children: true
 
 - 처음부터 읽으려면 [서문]({{site.baseurl}}/book/preface/)부터 시작하세요.
 - 특정 기술만 찾는다면 왼쪽 메뉴에서 해당 장으로 바로 이동하세요.
+- 출판본 기획과 표지, 통합 원고를 보려면 [출판본 안내]({{site.baseurl}}/book/final/)를 참고하세요.
 
 ## 장별 구성
 
 1. [서문]({{site.baseurl}}/book/preface/)
-2. [좋은 논증문은 무엇을 위해 존재하는가]({{site.baseurl}}/book/ch01/)
+2. [학생은 왜 그럴듯하게 실패하는가]({{site.baseurl}}/book/ch01/)
 3. [논제, 명제, 그리고 문장의 엄정함]({{site.baseurl}}/book/ch02/)
 4. [요약은 축약이 아니라 논증의 독해다]({{site.baseurl}}/book/ch03/)
 5. [쟁점과 딜레마를 발견하는 법]({{site.baseurl}}/book/ch04/)
-6. [단락은 생각의 방이 아니라 추론의 장치다]({{site.baseurl}}/book/ch05/)
-7. [서론, 본론, 결론, 그리고 나쁜 다섯 단락의 유혹]({{site.baseurl}}/book/ch06/)
+6. [본론은 왜 무너지는가: 병렬 나열, 가짜 균형, 랜덤 근거]({{site.baseurl}}/book/ch05/)
+7. [서론과 결론은 독자의 오해를 관리한다]({{site.baseurl}}/book/ch06/)
 8. [연역, 귀납, 가설유도, 유비]({{site.baseurl}}/book/ch07/)
-9. [반론, 예상반론, 재반박]({{site.baseurl}}/book/ch08/)
+9. [반론은 상대편 소개가 아니라 내 논증의 약점을 겨눈다]({{site.baseurl}}/book/ch08/)
 10. [리서치와 개조식 요약문]({{site.baseurl}}/book/ch09/)
 11. [Lemma에서 Theorem으로]({{site.baseurl}}/book/ch10/)
-12. [워크북과 체크리스트]({{site.baseurl}}/book/ch11/)
+12. [워크북과 진단표]({{site.baseurl}}/book/ch11/)
 
 ## 활용 제안
+
+- 교수자: 장별 읽기 과제와 워크숍 자료로 활용
+- 학생: 논증문 작성 전 단계별 참고서로 활용
+- 일반 독자: 학술적 글쓰기와 논증의 구조를 배우는 교양 텍스트로 활용
+
+## 이전 공개판
+
+이전 버전의 웹 공개판 `논증의 정원`은 별도 탭으로 유지한다.
+
+- [논증의 정원]({{site.baseurl}}/book-v1/)
 
 - 교수자: 장별 읽기 과제와 워크숍 자료로 활용
 - 학생: 논증문 작성 전 단계별 참고서로 활용
