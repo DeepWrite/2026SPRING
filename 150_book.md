@@ -29,13 +29,14 @@ has_children: true
 3. [논제, 명제, 그리고 문장의 엄정함]({{site.baseurl}}/book/ch02/)
 4. [요약은 축약이 아니라 논증의 독해다]({{site.baseurl}}/book/ch03/)
 5. [쟁점과 딜레마를 발견하는 법]({{site.baseurl}}/book/ch04/)
-6. [본론은 왜 무너지는가: 병렬 나열, 가짜 균형, 랜덤 근거]({{site.baseurl}}/book/ch05/)
-7. [서론과 결론은 독자의 오해를 관리한다]({{site.baseurl}}/book/ch06/)
-8. [연역, 귀납, 가설유도, 유비]({{site.baseurl}}/book/ch07/)
-9. [반론은 상대편 소개가 아니라 내 논증의 약점을 겨눈다]({{site.baseurl}}/book/ch08/)
-10. [리서치와 개조식 요약문]({{site.baseurl}}/book/ch09/)
-11. [Lemma에서 Theorem으로]({{site.baseurl}}/book/ch10/)
-12. [워크북과 진단표]({{site.baseurl}}/book/ch11/)
+6. [단락은 생각의 방이 아니라 추론의 장치다]({{site.baseurl}}/book/ch05/)
+7. [본론은 왜 무너지는가: 병렬 나열, 가짜 균형, 랜덤 근거]({{site.baseurl}}/book/ch06/)
+8. [서론과 결론은 독자의 오해를 관리한다]({{site.baseurl}}/book/ch07/)
+9. [연역, 귀납, 가설유도, 유비]({{site.baseurl}}/book/ch08/)
+10. [반론은 상대편 소개가 아니라 내 논증의 약점을 겨눈다]({{site.baseurl}}/book/ch09/)
+11. [리서치와 개조식 요약문]({{site.baseurl}}/book/ch10/)
+12. [Lemma에서 Theorem으로]({{site.baseurl}}/book/ch11/)
+13. [워크북과 진단표]({{site.baseurl}}/book/ch12/)
 
 ## 활용 제안
 
