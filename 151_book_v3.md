@@ -2,7 +2,6 @@
 title: 출판본 안내
 layout: home
 nav_order: 1
-parent: 문장의 얼개
 permalink: /book/final/
 nav_exclude: true
 ---
