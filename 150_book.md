@@ -14,13 +14,16 @@ has_children: true
   </div>
 </div>
 
+<div style="margin: 0 0 2rem 0; text-align: center;">
+  <img src="{{ site.baseurl }}/assets/images/book-v3-cover-mockup.png" alt="문장의 얼개 표지 시안" style="width: 180px; max-width: 100%; height: auto; border-radius: 10px; box-shadow: 0 10px 24px rgba(0,0,0,0.12);">
+</div>
+
 {% include_relative book-web/_web_notice.md %}
 
 ## 읽는 방법
 
 - 처음부터 읽으려면 [서문]({{site.baseurl}}/book/preface/)부터 시작하세요.
 - 특정 기술만 찾는다면 왼쪽 메뉴에서 해당 장으로 바로 이동하세요.
-- 출판본 기획과 표지, 통합 원고를 보려면 [출판본 안내]({{site.baseurl}}/book/final/)를 참고하세요.
 
 ## 장별 구성
 

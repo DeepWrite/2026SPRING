@@ -4,6 +4,7 @@ layout: home
 nav_order: 1
 parent: 문장의 얼개
 permalink: /book/final/
+nav_exclude: true
 ---
 
 <div style="margin: -1rem 0 2rem 0; border-radius: 12px; overflow: hidden; background-image: linear-gradient(rgba(248,245,240,0.76), rgba(248,245,240,0.94)), url('{{ site.baseurl }}/assets/images/book-v3-cover-online.png'); background-size: cover; background-position: center; padding: 4rem 3rem 4rem 3rem;">
