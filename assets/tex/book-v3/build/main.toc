@@ -1,0 +1,179 @@
+\contentsline {chapter}{서문}{1}{chapter*.2}%
+\contentsline {chapter}{1장. 학생은 왜 그럴듯하게 실패하는가}{7}{chapter*.3}%
+\contentsline {section}{1. 우리 사회는 어떤 글쓰기를 보상해 왔는가}{7}{section*.4}%
+\contentsline {section}{2. 그 결과 학생 글에 어떤 습성이 배는가}{8}{section*.5}%
+\contentsline {section}{3. 그래서 실패는 왜 그렇게 성실해 보이는가}{9}{section*.6}%
+\contentsline {section}{4. 학생의 실패는 사회적 실패의 축소판이다}{10}{section*.7}%
+\contentsline {section}{5. 논증문은 원래 무엇을 위한 글인가}{11}{section*.8}%
+\contentsline {section}{6. 이 책의 독서 경로}{11}{section*.9}%
+\contentsline {chapter}{2장. 논제, 명제, 그리고 문장의 엄정함}{13}{chapter*.10}%
+\contentsline {section}{1. 주제와 논제의 차이}{14}{section*.11}%
+\contentsline {section}{2. 명제란 무엇인가}{15}{section*.12}%
+\contentsline {section}{3. 좋은 논제의 조건}{16}{section*.13}%
+\contentsline {subsection}{구체성}{16}{subsection*.14}%
+\contentsline {subsection}{논쟁 가능성}{16}{subsection*.15}%
+\contentsline {subsection}{용어의 명료성}{16}{subsection*.16}%
+\contentsline {subsection}{범위의 절제}{16}{subsection*.17}%
+\contentsline {section}{4. 논제를 정확히 세우면 왜 논증이 쉬워지는가}{17}{section*.18}%
+\contentsline {section}{5. 문장을 고치는 일은 사유를 고치는 일이다}{18}{section*.19}%
+\contentsline {section}{장 끝 연습}{18}{section*.20}%
+\contentsline {chapter}{3장. 요약은 축약이 아니라 논증의 독해다}{20}{chapter*.21}%
+\contentsline {section}{1. 왜 요약부터 시작하는가}{21}{section*.22}%
+\contentsline {section}{2. 나쁜 요약의 세 가지 표지}{21}{section*.23}%
+\contentsline {subsection}{내용 나열}{21}{subsection*.24}%
+\contentsline {subsection}{배경 과잉}{21}{subsection*.25}%
+\contentsline {subsection}{평가의 실종}{22}{subsection*.26}%
+\contentsline {section}{3. 요약의 기본 단위}{22}{section*.27}%
+\contentsline {subsection}{핵심 쟁점}{22}{subsection*.28}%
+\contentsline {subsection}{딜레마}{22}{subsection*.29}%
+\contentsline {subsection}{중심 논제}{22}{subsection*.30}%
+\contentsline {subsection}{주요 논증}{22}{subsection*.31}%
+\contentsline {subsection}{함의}{23}{subsection*.32}%
+\contentsline {section}{4. 사례의 처리}{23}{section*.33}%
+\contentsline {section}{5. 좋은 요약은 이미 절반의 논증이다}{24}{section*.34}%
+\contentsline {section}{요약문 미니 템플릿}{24}{section*.35}%
+\contentsline {section}{장 끝 연습}{24}{section*.36}%
+\contentsline {chapter}{4장. 쟁점과 딜레마를 발견하는 법}{26}{chapter*.37}%
+\contentsline {section}{1. 쟁점은 왜 중요한가}{26}{section*.38}%
+\contentsline {section}{2. 진짜 쟁점과 가짜 쟁점}{27}{section*.39}%
+\contentsline {section}{3. 딜레마는 쟁점을 움직이는 엔진이다}{28}{section*.40}%
+\contentsline {section}{4. 쟁점 찾기의 실제 절차}{28}{section*.41}%
+\contentsline {subsection}{첫째, 넓은 토픽을 적는다}{28}{subsection*.42}%
+\contentsline {subsection}{둘째, 그 토픽에서 충돌하는 주장 둘을 찾는다}{28}{subsection*.43}%
+\contentsline {subsection}{셋째, 왜 두 주장이 모두 그럴 듯한지 적는다}{29}{subsection*.44}%
+\contentsline {subsection}{넷째, 그 충돌을 하나의 질문으로 압축한다}{29}{subsection*.45}%
+\contentsline {subsection}{다섯째, 내가 제안할 해소 방향을 한 문장으로 쓴다}{29}{subsection*.46}%
+\contentsline {section}{5. 쟁점이 좁아질수록 글은 강해진다}{29}{section*.47}%
+\contentsline {section}{장 끝 연습}{30}{section*.48}%
+\contentsline {chapter}{5장. 단락은 생각의 방이 아니라 추론의 장치다}{31}{chapter*.49}%
+\contentsline {section}{1. 왜 단락부터 훈련하는가}{32}{section*.50}%
+\contentsline {section}{2. OREO의 유익한 소박함}{32}{section*.51}%
+\contentsline {section}{3. 단락의 기능을 분리하라}{34}{section*.52}%
+\contentsline {section}{4. 사례는 이유를 대신하지 않는다}{35}{section*.53}%
+\contentsline {section}{5. 한 단락, 한 기능}{35}{section*.54}%
+\contentsline {section}{6. 단락 훈련은 어디까지 유용한가}{36}{section*.55}%
+\contentsline {section}{단락 작성을 위한 소형 템플릿}{36}{section*.56}%
+\contentsline {section}{장 끝 연습}{37}{section*.57}%
+\contentsline {chapter}{6장. 본론은 왜 무너지는가: 병렬 나열, 가짜 균형, 랜덤 근거}{38}{chapter*.58}%
+\contentsline {section}{1. 가장 흔한 실패}{38}{section*.59}%
+\contentsline {section}{2. 왜 이런 본론이 자꾸 생기는가}{39}{section*.60}%
+\contentsline {section}{3. 본론의 재정의}{40}{section*.61}%
+\contentsline {section}{4. 병렬 나열이 왜 치명적인가}{41}{section*.62}%
+\contentsline {section}{5. 가짜 균형의 유혹}{42}{section*.63}%
+\contentsline {section}{6. 본론은 지식 기여의 공간이다}{43}{section*.64}%
+\contentsline {section}{7. 왜 OREO만으로는 부족한가}{43}{section*.65}%
+\contentsline {section}{8. 이 장에서 독자가 가져가야 할 것}{43}{section*.66}%
+\contentsline {chapter}{7장. 서론과 결론은 독자의 오해를 관리한다}{45}{chapter*.67}%
+\contentsline {section}{1. 서론의 실패}{45}{section*.68}%
+\contentsline {section}{2. 왜 학생은 넓은 배경을 선호하는가}{46}{section*.69}%
+\contentsline {section}{3. 결론의 실패}{46}{section*.70}%
+\contentsline {section}{4. 결론의 기능}{47}{section*.71}%
+\contentsline {section}{5. 왜 이 장이 중요한가}{48}{section*.72}%
+\contentsline {chapter}{8장. 연역, 귀납, 가설유도, 유비}{49}{chapter*.73}%
+\contentsline {section}{1. 연역}{49}{section*.74}%
+\contentsline {section}{2. 귀납}{50}{section*.75}%
+\contentsline {section}{3. 가설유도}{50}{section*.76}%
+\contentsline {section}{4. 유비}{51}{section*.77}%
+\contentsline {section}{5. 추론 유형을 알면 무엇이 달라지는가}{51}{section*.78}%
+\contentsline {section}{6. 실전 감각}{52}{section*.79}%
+\contentsline {section}{장 끝 연습}{52}{section*.80}%
+\contentsline {chapter}{9장. 반론은 상대편 소개가 아니라 내 논증의 약점을 겨눈다}{54}{chapter*.81}%
+\contentsline {section}{1. 반론에서 가장 자주 드러나는 혼선}{54}{section*.82}%
+\contentsline {section}{2. 반론의 최소 정의}{55}{section*.83}%
+\contentsline {section}{3. 왜 학생은 반론을 장식으로 쓰는가}{55}{section*.84}%
+\contentsline {section}{4. rebuttal의 목표}{56}{section*.85}%
+\contentsline {section}{5. 토론대회와 논증문의 혼동}{57}{section*.86}%
+\contentsline {section}{6. 이 장의 의미}{57}{section*.87}%
+\contentsline {chapter}{10장. 리서치와 개조식 요약문}{58}{chapter*.88}%
+\contentsline {section}{1. 문헌 목록은 왜 먼저 필요한가}{58}{section*.89}%
+\contentsline {section}{2. 개조식 요약문의 미덕}{59}{section*.90}%
+\contentsline {section}{3. 한 편의 문헌을 어떻게 기록할 것인가}{59}{section*.91}%
+\contentsline {section}{4. 자료 찾기보다 더 어려운 일}{60}{section*.92}%
+\contentsline {section}{5. AI와 검색 도구에 대하여}{60}{section*.93}%
+\contentsline {section}{미니 템플릿}{61}{section*.94}%
+\contentsline {subsection}{서지 정보}{61}{subsection*.95}%
+\contentsline {subsection}{쟁점}{62}{subsection*.96}%
+\contentsline {subsection}{딜레마}{62}{subsection*.97}%
+\contentsline {subsection}{논제}{62}{subsection*.98}%
+\contentsline {subsection}{논증 방식}{62}{subsection*.99}%
+\contentsline {subsection}{활용}{62}{subsection*.100}%
+\contentsline {section}{장 끝 연습}{62}{section*.101}%
+\contentsline {chapter}{11장. Lemma에서 Theorem으로}{63}{chapter*.102}%
+\contentsline {section}{1. 부분결론의 필요성}{64}{section*.103}%
+\contentsline {section}{2. They Say / I Say의 누적 구조}{64}{section*.104}%
+\contentsline {section}{3. Lemma는 단락을 넘어 장을 조직한다}{65}{section*.105}%
+\contentsline {section}{4. Lemma를 세우는 질문}{66}{section*.106}%
+\contentsline {section}{5. 부분결론이 서로 연결되어야 한다}{66}{section*.107}%
+\contentsline {section}{6. 장문 개요 예시}{67}{section*.108}%
+\contentsline {section}{7. 5-6단락 에세이의 축약형}{67}{section*.109}%
+\contentsline {section}{장 끝 연습}{68}{section*.110}%
+\contentsline {chapter}{12장. 종합 진단과 글쓰기 현장 실습의 틀}{69}{chapter*.111}%
+\contentsline {section}{1. 종합 진단의 네 질문}{69}{section*.112}%
+\contentsline {section}{2. 좋은 상호 코멘트는 무엇을 묻는가}{70}{section*.113}%
+\contentsline {section}{3. 글쓰기 현장 실습의 틀은 어떻게 다시 세워야 하는가}{71}{section*.114}%
+\contentsline {section}{4. 권말 부록은 어떻게 써야 하는가}{71}{section*.115}%
+\contentsline {section}{5. 마지막 권고}{72}{section*.116}%
+\contentsline {chapter}{에필로그. 누가 좋은 논증을 인정할 것인가}{74}{chapter*.117}%
+\contentsline {chapter}{권말 부록. 실전 시트}{75}{chapter*.118}%
+\contentsline {section}{시트 1. 논제 엄정화 시트}{75}{section*.119}%
+\contentsline {subsection}{A. 넓은 주제}{75}{subsection*.120}%
+\contentsline {subsection}{B. 실제 쟁점}{76}{subsection*.121}%
+\contentsline {subsection}{C. 잠정 논제}{76}{subsection*.122}%
+\contentsline {subsection}{D. 점검}{76}{subsection*.123}%
+\contentsline {subsection}{E. 다시 쓰기}{76}{subsection*.124}%
+\contentsline {section}{시트 2. 논증 독해·요약 시트}{77}{section*.125}%
+\contentsline {subsection}{A. 핵심 논제}{77}{subsection*.126}%
+\contentsline {subsection}{B. 쟁점}{77}{subsection*.127}%
+\contentsline {subsection}{C. 딜레마}{77}{subsection*.128}%
+\contentsline {subsection}{D. 논증의 구조}{77}{subsection*.129}%
+\contentsline {subsection}{E. 한계 또는 함의}{77}{subsection*.130}%
+\contentsline {subsection}{F. 점검}{78}{subsection*.131}%
+\contentsline {section}{시트 3. 쟁점·딜레마 시트}{78}{section*.132}%
+\contentsline {subsection}{A. 충돌하는 두 입장}{78}{subsection*.133}%
+\contentsline {subsection}{B. 왜 둘 다 그럴듯한가}{78}{subsection*.134}%
+\contentsline {subsection}{C. 딜레마의 핵심 문장}{78}{subsection*.135}%
+\contentsline {subsection}{D. 내 개입 지점}{78}{subsection*.136}%
+\contentsline {subsection}{E. 점검}{79}{subsection*.137}%
+\contentsline {section}{시트 4. 단락 훈련 시트}{79}{section*.138}%
+\contentsline {subsection}{A. 이 단락의 기능}{79}{subsection*.139}%
+\contentsline {subsection}{B. 단락 초안 틀}{79}{subsection*.140}%
+\contentsline {subsection}{C. 점검}{79}{subsection*.141}%
+\contentsline {subsection}{D. OREO 재점검}{80}{subsection*.142}%
+\contentsline {section}{시트 5. 본론 구조 시트}{80}{section*.143}%
+\contentsline {subsection}{A. 최종 논제}{80}{subsection*.144}%
+\contentsline {subsection}{B. 이 결론에 필요한 핵심 전제들}{80}{subsection*.145}%
+\contentsline {subsection}{C. 본론 단락 배치}{80}{subsection*.146}%
+\contentsline {subsection}{D. 점검}{81}{subsection*.147}%
+\contentsline {subsection}{E. 5-6단락 축약형}{81}{subsection*.148}%
+\contentsline {subsection}{F. 왜 지금 이 형식으로 연습하는가}{81}{subsection*.149}%
+\contentsline {section}{시트 6. 서론·결론 시트}{82}{section*.150}%
+\contentsline {subsection}{A. 서론 점검}{82}{subsection*.151}%
+\contentsline {subsection}{B. 결론 점검}{82}{subsection*.152}%
+\contentsline {subsection}{C. 점검}{82}{subsection*.153}%
+\contentsline {section}{시트 7. 반론·재반박 시트}{82}{section*.154}%
+\contentsline {subsection}{A. 내 논증의 추론 유형}{82}{subsection*.155}%
+\contentsline {subsection}{B. 예상 objection}{83}{subsection*.156}%
+\contentsline {subsection}{C. 재반박}{83}{subsection*.157}%
+\contentsline {subsection}{D. 점검}{83}{subsection*.158}%
+\contentsline {subsection}{E. 추론 유형별 확인}{83}{subsection*.159}%
+\contentsline {section}{시트 8. 리서치·개조식 요약 시트}{84}{section*.160}%
+\contentsline {subsection}{A. 쟁점}{84}{subsection*.161}%
+\contentsline {subsection}{B. 딜레마}{84}{subsection*.162}%
+\contentsline {subsection}{C. 논제}{84}{subsection*.163}%
+\contentsline {subsection}{D. 논증 방식}{84}{subsection*.164}%
+\contentsline {subsection}{E. 내 글에서의 위치}{85}{subsection*.165}%
+\contentsline {subsection}{F. 활용 메모}{85}{subsection*.166}%
+\contentsline {subsection}{G. 점검}{85}{subsection*.167}%
+\contentsline {section}{시트 9. 장문 개요 시트}{85}{section*.168}%
+\contentsline {subsection}{A. 최종 Theorem}{85}{subsection*.169}%
+\contentsline {subsection}{B. 필요한 Lemma들}{85}{subsection*.170}%
+\contentsline {subsection}{C. 예상 반론의 위치}{86}{subsection*.171}%
+\contentsline {subsection}{D. 절 구조}{86}{subsection*.172}%
+\contentsline {subsection}{E. 점검}{86}{subsection*.173}%
+\contentsline {subsection}{F. 형식과 논증을 구별하기}{86}{subsection*.174}%
+\contentsline {section}{시트 10. 동료 피드백 시트}{87}{section*.175}%
+\contentsline {subsection}{A. 먼저 확인할 것}{87}{subsection*.176}%
+\contentsline {subsection}{B. 구조 중심 코멘트}{87}{subsection*.177}%
+\contentsline {subsection}{C. 금지할 코멘트}{87}{subsection*.178}%
+\contentsline {subsection}{D. 마지막 한 줄}{88}{subsection*.179}%
+\contentsfinish 

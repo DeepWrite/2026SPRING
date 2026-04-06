@@ -1,0 +1,224 @@
+\documentclass[11pt,a5paper,oneside,openany]{book}
+
+% ==========================
+% 기본 패키지
+% ==========================
+\usepackage{fontspec}
+\usepackage{kotex}
+\usepackage{geometry}
+\usepackage{setspace}
+\usepackage{microtype}
+\usepackage{titlesec}
+\usepackage{titletoc}
+\usepackage{fancyhdr}
+\usepackage[hang,flushmargin]{footmisc}
+\usepackage{graphicx}
+\usepackage{xcolor}
+\usepackage{hyperref}
+\usepackage{bookmark}
+\usepackage{enumitem}
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{array}
+\usepackage{amsmath,amssymb}
+\usepackage{csquotes}
+\usepackage{etoolbox}
+
+% ==========================
+% 판형과 여백
+% ==========================
+\geometry{
+  paperwidth=148mm,
+  paperheight=210mm,
+  top=22mm,
+  bottom=24mm,
+  inner=20mm,
+  outer=18mm,
+  headsep=7mm,
+  footskip=10mm
+}
+
+% ==========================
+% 폰트
+% ==========================
+\setmainfont{Times New Roman}
+\setsansfont{Arial}
+\setmonofont{Courier New}
+
+\setmainhangulfont[
+  Path = ../,
+  UprightFont = *Batang Light.ttf,
+  BoldFont    = *Batang Medium.ttf,
+  ItalicFont  = *Batang Light.ttf,
+  BoldItalicFont = *Batang Medium.ttf
+]{KoPubWorld }
+
+\setsanshangulfont[
+  Path = ../,
+  UprightFont = *Dotum Light.ttf,
+  BoldFont    = *Dotum Medium.ttf,
+  ItalicFont  = *Dotum Light.ttf,
+  BoldItalicFont = *Dotum Medium.ttf
+]{KoPubWorld }
+
+\newfontfamily\hangultitlefont[
+  Path = ../,
+  UprightFont = *Batang Bold.ttf
+]{KoPubWorld }
+
+% ==========================
+% 본문 톤
+% ==========================
+\setstretch{1.28}
+\setlength{\parindent}{1.2em}
+\setlength{\parskip}{0.35em}
+\setlength{\emergencystretch}{1.5em}
+\clubpenalty=10000
+\widowpenalty=10000
+\displaywidowpenalty=10000
+
+\definecolor{ink}{HTML}{2F3338}
+\definecolor{muted}{HTML}{666A70}
+\definecolor{rulegray}{HTML}{D8D4CC}
+\definecolor{paperline}{HTML}{B7B1A7}
+
+\color{ink}
+
+% ==========================
+% 제목/차례
+% ==========================
+\setcounter{secnumdepth}{-1}
+\setcounter{tocdepth}{0}
+\renewcommand{\contentsname}{차례}
+
+\titleformat{\chapter}[display]
+  {\thispagestyle{plain}\filcenter}
+  {}
+  {0pt}
+  {\vspace*{1.2cm}\hangultitlefont\fontsize{19}{25}\selectfont}
+
+\titlespacing*{\chapter}{0pt}{0pt}{1.6em}
+
+\titleformat{\section}
+  {\hangultitlefont\fontsize{13.5}{18}\selectfont}
+  {}
+  {0pt}
+  {}
+
+\titlespacing*{\section}{0pt}{1.5em}{0.6em}
+
+\titleformat{\subsection}
+  {\hangultitlefont\fontsize{11.5}{16}\selectfont}
+  {}
+  {0pt}
+  {}
+
+\titlespacing*{\subsection}{0pt}{1.2em}{0.45em}
+
+\titlecontents{chapter}
+  [0em]
+  {\vspace{0.2em}}
+  {}
+  {}
+  {\titlerule*[0.6pc]{.}\contentspage}
+
+% ==========================
+% 머리말/꼬리말
+% ==========================
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[R]{\small\color{muted}\thepage}
+\fancyhead[L]{\small\color{muted}\nouppercase{\rightmark}}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+\fancypagestyle{plain}{
+  \fancyhf{}
+  \fancyfoot[C]{\small\color{muted}\thepage}
+  \renewcommand{\headrulewidth}{0pt}
+}
+
+% ==========================
+% 리스트와 인용
+% ==========================
+\setlist[itemize]{leftmargin=1.8em,itemsep=0.25em,topsep=0.35em}
+\setlist[enumerate]{leftmargin=1.8em,itemsep=0.25em,topsep=0.35em}
+
+\AtBeginEnvironment{quote}{%
+  \par\small
+  \setlength{\leftskip}{1.2em}%
+  \setlength{\rightskip}{0pt}%
+  \color{muted}%
+}
+\AtEndEnvironment{quote}{\par\normalsize\color{ink}}
+
+% ==========================
+% 표/이미지/링크
+% ==========================
+\setlength{\LTpre}{0.5em}
+\setlength{\LTpost}{0.8em}
+\renewcommand{\arraystretch}{1.2}
+
+\graphicspath{{../../images/}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+\hypersetup{
+  colorlinks=true,
+  linkcolor=ink,
+  urlcolor=ink,
+  citecolor=ink,
+  pdftitle={문장의 얼개},
+  pdfauthor={손제연},
+  pdfsubject={논증적 글쓰기와 더 나은 판단을 위한 공부},
+  pdfcreator={XeLaTeX}
+}
+
+% ==========================
+% 문서 메타
+% ==========================
+\title{\hangultitlefont 문장의 얼개}
+\author{손제연}
+\date{}
+
+% ==========================
+% 본문
+% ==========================
+\begin{document}
+
+\frontmatter
+\thispagestyle{empty}
+\begin{center}
+  \vspace*{1.8cm}
+  \includegraphics[width=0.53\textwidth]{book-v3-cover-concept.png}
+
+  \vspace{1.8cm}
+  {\hangultitlefont\fontsize{24}{31}\selectfont 문장의 얼개\par}
+  \vspace{0.9em}
+  {\fontsize{11.5}{16}\selectfont 논증적 글쓰기와 더 나은 판단을 위한 공부\par}
+  \vfill
+  {\hangultitlefont\fontsize{12}{16}\selectfont 손제연\par}
+  \vspace*{1.4cm}
+\end{center}
+
+\clearpage
+\thispagestyle{empty}
+\null
+\vfill
+\begin{center}
+  {\hangultitlefont\fontsize{18}{24}\selectfont 문장의 얼개\par}
+  \vspace{0.8em}
+  {\fontsize{10.8}{15}\selectfont 논증적 글쓰기와 더 나은 판단을 위한 공부\par}
+  \vspace{2.2em}
+  {\hangultitlefont\fontsize{11.5}{15}\selectfont 손제연\par}
+\end{center}
+\vfill
+\null
+
+\clearpage
+\tableofcontents
+
+\mainmatter
+\input{build/body.tex}
+
+\end{document}
