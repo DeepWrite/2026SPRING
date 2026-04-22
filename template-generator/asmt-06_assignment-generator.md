@@ -31,14 +31,14 @@ permalink: /assignment-generator/asmt-06
     <input
       id="lit1"
       class="form-control"
-      maxlength="10"
-      placeholder="문헌1 (띄어쓰기 포함 10글자 이내)"
+      maxlength="20"
+      placeholder="문헌1 (띄어쓰기 포함 20글자 이내)"
     />
     <input
       id="lit2"
       class="form-control"
-      maxlength="10"
-      placeholder="문헌2 (띄어쓰기 포함 10글자 이내)"
+      maxlength="20"
+      placeholder="문헌2 (띄어쓰기 포함 20글자 이내)"
     />
 
     <button id="btn-asmt-06" class="btn">과제-06 템플릿 다운로드</button>
@@ -61,7 +61,7 @@ permalink: /assignment-generator/asmt-06
   }
 
   function sanitizeLit(s) {
-    return sanitizeCommon(s).slice(0, 10);
+    return sanitizeCommon(s).slice(0, 20);
   }
 
   function padTeamNo(teamNo) {
