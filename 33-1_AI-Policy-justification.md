@@ -8,7 +8,7 @@ permalink: /AI-Policy/justification
 
 # 생성형 AI 시대 대학 교육의 목적과 평가정당성
 
-2026. 4.23
+2026/4/23
 
 손제연(서울대학교 학부대학)
 
