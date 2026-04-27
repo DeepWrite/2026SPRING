@@ -145,7 +145,7 @@ permalink: /syllabus/
     - **Quiz-05** (5분)
 
 - 테이크홈 과제 
-  - **[5-6단락 논증에세이 수정]({{site.baseurl}}/assignments/revision-asmt-04)** 작성 및 제출(토요일 23:00 마감)
+  - **[5-6단락 논증에세이 개선]({{site.baseurl}}/assignments/revision-asmt-04)** 작성 및 제출(토요일 23:00 마감)
 
 ---
 

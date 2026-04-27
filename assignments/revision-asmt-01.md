@@ -1,12 +1,12 @@
 ---
-title: (개선) 과제-01 요약문 작성 연습 수정
+title: (개선) 과제-01 요약문 작성 연습 개선
 layout: home
 nav_order: 4
 parent: 과제 제출 방법
 permalink: /assignments/revision-asmt-01/
 ---
 
-# (개선) 과제-01 요약문 작성 연습 수정하기 (5차시)
+# (개선) 과제-01 요약문 작성 연습 개선하기 (5차시)
 
 ## 과제 설명
 

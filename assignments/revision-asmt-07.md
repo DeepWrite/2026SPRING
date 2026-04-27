@@ -1,12 +1,12 @@
 ---
-title: (개선) 과제-07 개인별 논증 구조 작성안 수정
+title: (개선) 과제-07 개인별 논증 구조 작성안 개선
 layout: home
 nav_order: 45
 parent: 과제 제출 방법
 permalink: /assignments/revision-asmt-07/
 ---
 
-# (개선) 과제-07 개인별 논증 구조 작성안 수정하기 (9주차 18차시)
+# (개선) 과제-07 개인별 논증 구조 작성안 개선하기 (9주차 18차시)
 
 ## 과제 설명
 
@@ -14,7 +14,7 @@ permalink: /assignments/revision-asmt-07/
 
 ## 마감 기한
 
-- eTL 과제함 참조.
+- eTL 과제함 참조. (5/5 어린이날 23:00 까지)
 
 ```
 
