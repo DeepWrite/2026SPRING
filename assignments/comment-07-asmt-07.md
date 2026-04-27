@@ -14,7 +14,7 @@ permalink: /assignments/comment-07-asmt-07/
 
 ## 마감 기한
 
-- **10주차 20차시** 수업시간 시작 후 **40분 이내** 마감
+- eTL 과제함 참조.
 - 코멘트 후 [개선 과제]({{site.baseurl}}/assignments/revision-asmt-07) 수행.
 
 ## 작성 예시

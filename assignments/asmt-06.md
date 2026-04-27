@@ -16,7 +16,7 @@ permalink: /assignments/asmt-06/
 
 ## 마감 기한
 
-- **익일** 23:00까지.
+- eTL 과제함 참조.
 
 ```
 

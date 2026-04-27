@@ -13,7 +13,7 @@ permalink: /assignments/comment-03-asmt-03/
 
 ## 마감 기한
 
-- 5주차 9차시
+- eTL 과제함 참조.
 - 코멘트 후 개선 과제 없음.
 
 ## 작성 예시

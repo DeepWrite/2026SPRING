@@ -14,7 +14,7 @@ permalink: /assignments/revision-asmt-07/
 
 ## 마감 기한
 
-- 10주차 20차시 **해당 과제가 인클래스에서 수행된 주의 토요일 23:00**까지.
+- eTL 과제함 참조.
 
 ```
 
