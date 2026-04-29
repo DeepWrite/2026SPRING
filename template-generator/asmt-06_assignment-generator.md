@@ -61,7 +61,16 @@ permalink: /assignment-generator/asmt-06
   }
 
   function sanitizeLit(s) {
-    return sanitizeCommon(s).slice(0, 20);
+    return (s ?? "")
+      .toString()
+      .trim()
+      .replace(/[\u0000-\u001f\u007f]/g, "")
+      .replace(/\s+/g, " ")
+      .slice(0, 20);
+  }
+
+  function yamlString(s) {
+    return JSON.stringify(String(s ?? ""));
   }
 
   function padTeamNo(teamNo) {
@@ -74,11 +83,11 @@ permalink: /assignment-generator/asmt-06
 
     return [
       "---",
-      `title: (${classNo}-${serialNo} ${name}) ${lit1}/${lit2}`,
+      `title: ${yamlString(`(${classNo}-${serialNo} ${name}) ${lit1}/${lit2}`)}`,
       "layout: home",
       `nav_order: ${navOrder}`,
-      `parent: 과제-06 (${teamNo}조) 개조식 요약문`,
-      `permalink: /asmt-06/${teamNoPadded}/${classNo}-${serialNo}`,
+      `parent: ${yamlString(`과제-06 (${teamNo}조) 개조식 요약문`)}`,
+      `permalink: ${yamlString(`/asmt-06/${teamNoPadded}/${classNo}-${serialNo}`)}`,
       "---",
       "",
       `# 과제-06 (조별) 개조식 요약문 작성 ${classNo}-${serialNo} ${name} `,
