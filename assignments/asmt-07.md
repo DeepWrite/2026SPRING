@@ -12,6 +12,8 @@ permalink: /assignments/asmt-07/
 
 **9주차 (17차시) 개인별 논증 구조 작성하기**: [9주차 (17차시) 개인별 논증 구조 작성하기]({{site.baseurl}}/lectures/week09-17)
 
+과제-07은 이후 상호 코멘트와 2026년 5월 5일 어린이날 개선본 제출까지 이어지는 한 세트의 작업이다. 실제 수업에서 설명한 수행 흐름은 [9주차 현장강의록 - 논증구조 작성법]({{site.baseurl}}/lectures/week09-17-field-lecture/)을 함께 확인할 것.
+
 ## 마감 기한
 
 - eTL 과제함 참조.
@@ -89,5 +91,4 @@ permalink: /asmt-07/015-33
 - IPCC, 2023. *Climate Change 2023: Impacts, Adaptation and Vulnerability*.
 
 ```
-
 

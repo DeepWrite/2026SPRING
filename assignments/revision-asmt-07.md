@@ -11,6 +11,7 @@ permalink: /assignments/revision-asmt-07/
 ## 과제 설명
 
 - 상호 코멘트 받은 사항들을 참고하여, 제출했던 인별 논증 구조 작성안을 강좌에서 강조했던 부분과 상호코멘트 사항을 검토하여 개선한다.
+- 개선본은 기말 에세이로 가져갈 논증 설계도를 확정하는 단계이다. 큰 방향을 바꿀 수 있는 마지막 시점이라는 점을 염두에 두고 [9주차 현장강의록 - 논증구조 작성법]({{site.baseurl}}/lectures/week09-17-field-lecture/)의 강조점을 반영할 것.
 
 ## 마감 기한
 
@@ -93,4 +94,3 @@ permalink: /asmt-07/015-33/revision
 - IPCC, 2023. *Climate Change 2023: Impacts, Adaptation and Vulnerability*.
 
 ```
-
