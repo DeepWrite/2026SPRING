@@ -15,7 +15,7 @@ permalink: /assignments/comment-08-asmt-08/
 ## 마감 기한
 
 - eTL 과제함 참조.
-- 코멘트 후 [개선 과제]({{site.baseurl}}/assignments/revision-asmt-08) 수행.
+- 코멘트 후 [기말과제 최종본]({{site.baseurl}}/assignments/asmt-09) 과제 수행.
 
 ## 작성 예시
 
