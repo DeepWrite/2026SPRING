@@ -6,7 +6,7 @@ parent: 과제 제출 방법
 permalink: /assignments/comment-08-asmt-08/
 ---
 
-# 과제-08에 대한 코멘트 (9주차 18차시)
+# 과제-08에 대한 코멘트 (14주차 28차시)
 
 ## 과제 설명
 
