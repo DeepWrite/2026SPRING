@@ -1,15 +1,13 @@
 ---
-title: 반별 제출 과제 열람
+title: 반별 과제 보관 안내
 layout: home
 nav_order: 120
 permalink: /works/
 ---
 
+학기별 분반 과제 저장소는 학생 제출물과 교수자 피드백을 포함하므로
+비공개 보관합니다. 이 공개 강의 사이트에서는 분반별 제출물 링크를 제공하지
+않습니다.
 
-[사회글 006반 제출 과제 열람하기](https://deepwrite.github.io/2026-1-006/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-
-[인문글 013반 제출 과제 열람하기](https://deepwrite.github.io/2026-1-013/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-
-[사회글 008반 제출 과제 열람하기](https://deepwrite.github.io/2026-1-008/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-
-[사회글 012반 제출 과제 열람하기](https://deepwrite.github.io/2026-1-012/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+본인 자료 확인이나 수업 기록에 관한 문의는 학교의 공식 수업 연락 경로를
+이용해 주십시오.
